@@ -1,0 +1,5 @@
+#!/bin/bash
+
+gem install foreman
+
+foreman start -f Procfile.dev
