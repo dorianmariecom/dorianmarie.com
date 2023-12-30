@@ -342,7 +342,7 @@ peuvent atteindre une masse critique si elles se regroupent. Dans le
 monde réel, les nerds se rassemblent dans certains endroits et forment
 leurs propres sociétés où l’intelligence est la chose la plus
 importante. Parfois le courant commence à passer même dans l’autre sens
-: parfois, notamment dans les départements de mathématiques et de
+\: parfois, notamment dans les départements de mathématiques et de
 sciences des universités, les nerds se rassemblent pour former des
 sociétés où l’intelligence est la chose la plus importante. John Nash
 admirait tellement Norbert Wiener qu’il a pris son habitude de toucher

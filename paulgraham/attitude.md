@@ -34,7 +34,7 @@ le projet Manhattan, Richard Feynman avait l’habitude de s’amuser en
 pénétrant dans des coffres-forts contenant des documents secrets. Cette
 tradition se poursuit aujourd’hui. Lorsque nous étions à l’école
 supérieure, un de mes amis pirates qui a passé trop de temps autour du
-MIT avait son propre kit de sélection de serrures \[1\]. (Il dirige
+MIT avait son propre kit de sélection de serrures [^1]. (Il dirige
 maintenant un fonds spéculatif, une entreprise non liée.)
 
 Il est parfois difficile d’expliquer aux autorités pourquoi on voudrait
@@ -120,7 +120,7 @@ Ironiquement, les hackers ont provoqué cela sur eux-mêmes. Les
 ordinateurs sont les responsables du problème. Les systèmes de contrôle
 à l’intérieur des machines étaient auparavant physiques : engrenages,
 leviers et cames. De plus en plus, le cerveau (et donc la valeur) des
-produits est dans le logiciel \[2\]. Et par là, je veux dire le logiciel
+produits est dans le logiciel [^2]. Et par là, je veux dire le logiciel
 au sens général : c’est-à-dire les données. La chanson d’un disque
 compact est physiquement gravée sur le plastique. Une chanson sur le
 disque d’un iPod est simplement stockée dessus.
@@ -205,7 +205,7 @@ par les personnes les plus influentes. Les pays autoritaires deviennent
 corrompus, les pays corrompus deviennent pauvres et les pays pauvres
 sont faibles. Il me semble qu’il y a une courbe de Laffer pour le
 pouvoir gouvernemental, tout comme pour les renouvellements fiscaux
-\[3\]. Au moins, il semble assez probable qu’il serait stupide d’essayer
+[^3]. Au moins, il semble assez probable qu’il serait stupide d’essayer
 l’expérience et de la découvrir. Contrairement aux taux d’imposition
 élevés, vous ne pouvez pas abroger le totalitarisme si cela s’avère être
 une erreur.
@@ -250,3 +250,40 @@ richesse et du pouvoir des Etats-Unis.
 Ceux qui sont en mesure d’imposer des règles veulent naturellement
 qu’elles soient respectées. Mais faites attention à ce que vous
 demandez. Vous pourriez l’obtenir.
+
+[^1]: J’ai prévu d’apprendre à choisir des verrous aussi. Mais pas juste
+    à l’extérieur de la curiosité intellectuelle. Lorsque j’étais à peu
+    près à mi-chemin de l’école supérieure, le corps intelligent mais
+    truculent de hackers de premier cycle qui avaient l’habitude
+    d’administrer tous les ordinateurs a été remplacé par un
+    administrateur système professionnel qui avait l’habitude de rentrer
+    chez lui à 5 heures et de laisser la porte de la salle des machines
+    verrouillée. Si un ordinateur était coincé, on s’attendait à ce
+    qu’il attende jusqu’au matin pour le redémarrer. Un plan
+    complètement peu pratique, car à cette époque, nous n’avons souvent
+    même pas commencé à travailler avant 17 heures. Heureusement, à
+    Aiken Lab (depuis démoli), il y avait un espace entre les étages et
+    une trappe juste au-dessus du bureau de l’administrateur système.
+    Lorsque nous avions besoin de la clé de la salle des machines, nous
+    tombions par le plafond et la sortions du tiroir de son bureau.<br>
+    <br> Une nuit, vers 3 heures du matin, alors que je descendais sur
+    le bureau de l’administrateur système, des alarmes auriculaires se
+    sont déclenchées dans tout le bâtiment. « Putain », ai-je pensé
+    (désolé pour le blasphème, mais je me souviens clairement d’avoir
+    pensé cela), « ils ont câblé l’endroit. » Je suis sorti de ce
+    bâtiment en une trentaine de secondes. Je me suis précipité à la
+    maison (par une tempête de pluie diluvienne), essayant d’avoir l’air
+    nonchalant, mais à ma conscience coupable, chaque voiture
+    ressemblait à une Crown Victoria. Lorsque je me suis présenté au
+    laboratoire le lendemain, j’étais déjà en train de répéter ma
+    défense, mais il n’y avait pas d’e-mail inquiétant qui m’attendait.
+    Il s’est avéré que les alarmes avaient été déclenchées par la foudre
+    pendant la tempête.
+
+[^2]: Ce n’est pas seulement le contenu des produits qui est de plus en
+    plus un logiciel. Au fur et à mesure que la fabrication devient de
+    plus en plus automatisée, les conceptions deviennent également des
+    logiciels.
+
+[^3]: Je serais heureux de donner mon nom pour cette courbe. Le fait de
+    donner un nom à une idée sera mieux acceptée.
