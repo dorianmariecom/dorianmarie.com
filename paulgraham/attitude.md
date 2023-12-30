@@ -101,8 +101,6 @@ Jobs et Wozniak avec un dispositif de contournement, 1975.
 </figcaption>
 </figure>
 
-Jobs et Wozniak avec un dispositif de contournement, 1975.
-
 Les dernières lois sur la propriété intellectuelle imposent des
 restrictions sans précédent sur le type de fouille qui mène à de
 nouvelles idées. Dans le passé, un concurrent pouvait utiliser des

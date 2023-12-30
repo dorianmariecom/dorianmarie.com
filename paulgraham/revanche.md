@@ -129,8 +129,6 @@ IBM 704, Lawrence Livermore, 1956.
 </figcaption>
 </figure>
 
-IBM 704, Lawrence Livermore, 1956.
-
 Je vais vous dire comment. C’est parce que Lisp n’a pas vraiment été
 conçu pour être un langage de programmation, du moins pas dans le sens
 que nous voulons dire aujourd’hui. Ce que nous entendons par langage de
@@ -158,8 +156,6 @@ exprimer les programmes Lisp dans la pratique.
 Alpha nerd : John McCarthy.
 </figcaption>
 </figure>
-
-Alpha nerd : John McCarthy.
 
 Mais à la fin de 1958, Steve Russell \[3\], l’un des étudiants diplômés
 de McCarthy, a examiné cette définition de l’évaluation et s’est rendu

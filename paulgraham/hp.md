@@ -433,8 +433,6 @@ Ginevra de’ Benci de Léonard de Vinci, 1474.
 </figcaption>
 </figure>
 
-Ginevra de’ Benci de Léonard de Vinci, 1474.
-
 Cela ressemble à un paradoxe, mais une grande peinture doit être
 meilleure qu’elle ne doit l’être. Par exemple, lorsque Léonard de Vinci
 a peint le portrait de Ginevra de’ Benci à la National Gallery, il a mis
@@ -581,8 +579,6 @@ alt="Federico da Montefeltro de Piero della Francesca, 1465-66 (détail)." />
 Federico da Montefeltro de Piero della Francesca, 1465-66 (détail).
 </figcaption>
 </figure>
-
-Federico da Montefeltro de Piero della Francesca, 1465-66 (détail).
 
 Vous devez avoir de l’empathie non seulement pour vos utilisateurs, mais
 aussi pour vos lecteurs. C’est dans votre intérêt, parce que vous serez

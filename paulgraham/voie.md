@@ -1189,8 +1189,6 @@ alt="Électronique populaire, janvier 1975 (détail)." />
 </figcaption>
 </figure>
 
-Électronique populaire, janvier 1975 (détail).
-
 Bien sûr, les applications basées sur le serveur n’ont pas besoin d’être
 basées sur le Web. Vous pourriez avoir un autre type de client. Mais je
 suis à peu près sûr que c’est une mauvaise idée. Ce serait très pratique
@@ -1294,8 +1292,6 @@ l’eau jusqu’à la taille.
 Bill Gates, 1977.
 </figcaption>
 </figure>
-
-Bill Gates, 1977.
 
 Je ne veux pas dénigrer Yahoo. Ils avaient de bons hackers, et la haute
 direction était de vrais butt-kickers. Pour une grande compagnie, ils

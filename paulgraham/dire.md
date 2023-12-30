@@ -254,8 +254,7 @@ Les têtes d’enfants sont les dépôts de tous nos tabous. Il nous semble
 approprié que les idées des enfants soient brillantes et propres.
 L’image que nous leur donnons du monde n’est pas simplement simplifiée,
 pour s’adapter à leur esprit en développement, mais aussi désinfectée,
-pour s’adapter à nos idées sur ce que les enfants devraient penser
-[^6].
+pour s’adapter à nos idées sur ce que les enfants devraient penser [^6].
 
 Vous pouvez le voir à petite échelle en matière de “gros mots”. Beaucoup
 de mes amis commencent à avoir des enfants maintenant, et ils essaient
@@ -513,8 +512,8 @@ J’avoue qu’il semble lâche de se taire. Quand j’ai lu sur le harcèlement
 auquel les scientologues soumettent leurs critiques [^12] ou des
 personnes marquées comme antisémites pour s’être prononcées contre les
 violations des droits de l’homme israéliens [^13] ou des chercheurs
-menacés de poursuites en vertu de la loi DMCA [^14], une partie de moi
-a envie de dire : “D’accord, bande de salauds, allez-y”. Le problème,
+menacés de poursuites en vertu de la loi DMCA [^14], une partie de moi a
+envie de dire : “D’accord, bande de salauds, allez-y”. Le problème,
 c’est qu’il y a tellement de choses qu’on ne peut pas dire. Si vous les
 disiez tous, vous n’auriez plus de temps pour votre vrai travail. Vous
 auriez à vous transformer en Noam Chomsky [^15].
@@ -669,20 +668,37 @@ poser des questions. C’est la seule défense. Que pouvez-vous dire ? Et
 pourquoi ?
 
 [^1]:
+
 [^2]:
+
 [^3]:
+
 [^4]:
+
 [^5]:
+
 [^6]:
+
 [^7]:
+
 [^8]:
+
 [^9]:
+
 [^10]:
+
 [^11]:
+
 [^12]:
+
 [^13]:
+
 [^14]:
+
 [^15]:
+
 [^16]:
+
 [^17]:
+
 [^18]:

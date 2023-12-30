@@ -125,9 +125,9 @@ soit du spam. Si w1, . . . , w15 sont les quinze jetons les plus
 intéressants, vous calculez la probabilité combinée de cette manière :
 
 <figure>
-<img src="img/spam/probabilite.png" alt="probabilitée combinée" />
+<img src="img/spam/probabilite.png" alt="Probabilitée combinée" />
 <figcaption aria-hidden="true">
-probabilitée combinée
+Probabilitée combinée
 </figcaption>
 </figure>
 

@@ -204,8 +204,6 @@ Porsche 911E, 1973
 </figcaption>
 </figure>
 
-Porsche 911E, 1973
-
 De même, une peinture qui suggère est généralement plus engageante
 qu’une peinture qui le dit. Chacun invente sa propre histoire sur La
 Joconde.
@@ -368,8 +366,6 @@ Tour Eiffel, 1889. Une tour sur une tour.
 </figcaption>
 </figure>
 
-Tour Eiffel, 1889. Une tour sur une tour.
-
 Ce n’est pas tricher de copier. Peu de gens nieraient qu’une histoire
 devrait être comme la vie. Travailler à partir de la vie est également
 un outil précieux en peinture, bien que son rôle ait souvent été mal
@@ -396,8 +392,6 @@ alt="Léonard de Vinci, étude d’un cheval d’élevage, 1481-99." />
 Léonard de Vinci, étude d’un cheval d’élevage, 1481-99.
 </figcaption>
 </figure>
-
-Léonard de Vinci, étude d’un cheval d’élevage, 1481-99.
 
 Maintenant que nous avons assez de puissance informatique, nous pouvons
 imiter la méthode de la nature ainsi que ses résultats. Les algorithmes
@@ -467,8 +461,6 @@ Lockheed SR-71, 1964.
 </figcaption>
 </figure>
 
-Lockheed SR-71, 1964.
-
 Un bon design est souvent étrange. Certains des meilleurs travaux ont
 une qualité étrange : Euler’s Formula, Bruegel’s Hunters in the Snow, le
 SR-71, Lisp. Ils ne sont pas seulement beaux, mais étrangement beaux.
@@ -507,8 +499,6 @@ alt="Les chasseurs dans la neige, de Bruegel, 1565." />
 Les chasseurs dans la neige, de Bruegel, 1565.
 </figcaption>
 </figure>
-
-Les chasseurs dans la neige, de Bruegel, 1565.
 
 Un bon design se fait en morceaux. Les habitants de la Florence du XVe
 siècle comprenaient Brunelleschi, Ghiberti, Donatello, Masaccio, Filippo

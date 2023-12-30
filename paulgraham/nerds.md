@@ -130,8 +130,6 @@ Club d’échecs du lycée Gateway, 1981. C’est moi en haut à gauche.
 </figcaption>
 </figure>
 
-Club d’échecs du lycée Gateway, 1981. C’est moi en haut à gauche.
-
 De même, la popularité n’est pas seulement quelque chose que l’on est ou
 que l’on n’est pas, mais quelque chose que l’on fait soi-même.
 

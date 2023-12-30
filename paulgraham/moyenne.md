@@ -87,8 +87,6 @@ Avec Robert Morris, Viaweb, début 1996.
 </figcaption>
 </figure>
 
-Avec Robert Morris, Viaweb, début 1996.
-
 C’est particulièrement vrai dans une start-up. Dans une grande
 entreprise, vous pouvez faire ce que font toutes les autres grandes
 entreprises. Mais une startup ne peut pas faire ce que toutes les autres
