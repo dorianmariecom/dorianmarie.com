@@ -1,3 +1,8 @@
+---
+title: Faites Attention à l’Écart
+layout: default
+---
+
 Chapitre 7
 
 Quand les gens se soucient suffisamment de quelque chose pour bien le

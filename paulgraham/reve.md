@@ -1,3 +1,8 @@
+---
+title: Le Langage de Rêve
+layout: default
+---
+
 Chapitre 14
 
 > De toutes les tyrannies, une tyrannie exercée pour le bien de ses

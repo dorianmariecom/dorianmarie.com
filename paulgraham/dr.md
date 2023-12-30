@@ -1,3 +1,8 @@
+---
+title: Design et Recherche
+layout: default
+---
+
 Chapitre 15
 
 Les Américains aiment commencer une conversation en demandant « que

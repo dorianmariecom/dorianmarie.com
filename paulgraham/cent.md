@@ -1,3 +1,8 @@
+---
+title: Le Language de Cent-Ans
+layout: default
+---
+
 Chapitre 11
 
 Il est difficile de prédire à quoi ressemblera la vie dans cent ans. Il

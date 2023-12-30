@@ -1,3 +1,8 @@
+---
+title: Le Goût pour les Créateurs
+layout: default
+---
+
 Chapitre 9
 
 > Les objections esthétiques de Copernic à \[équants\] ont fourni un

@@ -1,3 +1,8 @@
+---
+title: Un Plan Pour le Spam
+layout: default
+---
+
 Chapitre 8
 
 Je pense qu’il est possible d’arrêter le spam, et que les filtres basés

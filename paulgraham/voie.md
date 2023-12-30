@@ -1,3 +1,8 @@
+---
+title: L’autre Voie à Suivre
+layout: default
+---
+
 Chapitre 5
 
 À l’été 1995, mon ami Robert Morris et moi avons décidé de démarrer une

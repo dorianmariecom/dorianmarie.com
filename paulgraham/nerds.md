@@ -1,3 +1,8 @@
+---
+title: Pourquoi les nerds ne sont-ils pas populaires ?
+layout: default
+---
+
 Chapitre 1
 
 Quand on était en première année de lycée, mon ami Rich et moi-même

@@ -1,3 +1,8 @@
+---
+title: Comment Créer de la Valeur
+layout: default
+---
+
 Chapitre 6
 
 Si vous vouliez devenir riche, comment le feriez-vous ? Je pense que

@@ -1,3 +1,8 @@
+---
+title: Les Langages de Programmation Expliqués
+layout: default
+---
+
 Chapitre 10
 
 Toute machine a une liste de choses que vous pouvez lui dire de faire.

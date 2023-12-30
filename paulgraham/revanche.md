@@ -1,3 +1,8 @@
+---
+title: La Revanche des Nerds
+layout: default
+---
+
 Chapitre 13
 
 Dans le secteur des logiciels, il y a une lutte en cours, entre les

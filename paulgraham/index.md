@@ -1,3 +1,8 @@
+---
+title: Paul Graham
+layout: default
+---
+
 ## LES HACKERS & LES PEINTRES
 
 Grandes idées sur l’ère numérique

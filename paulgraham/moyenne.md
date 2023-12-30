@@ -1,3 +1,8 @@
+---
+title: Battre les Moyennes
+layout: default
+---
+
 Chapitre 12
 
 En 1995, Robert Morris et moi avons lancé une start-up appelée Viaweb.

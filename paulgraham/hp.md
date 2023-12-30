@@ -1,3 +1,8 @@
+---
+title: Les Hackers et les Peintres
+layout: default
+---
+
 Chapitre 2
 
 Quand j’ai terminé mes études supérieures en informatique, j’y suis allé

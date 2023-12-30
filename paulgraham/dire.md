@@ -1,3 +1,8 @@
+---
+title: Ce que vous ne pouvez pas dire
+layout: default
+---
+
 Chapitre 3
 
 Avez-vous déjà vu une vieille photo de vous-même et été gêné par la

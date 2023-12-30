@@ -1,3 +1,8 @@
+---
+title: Bonne Mauvaise Attitude
+layout: default
+---
+
 Chapitre 4
 
 Pour la presse populaire, un hacker signifie quelqu’un qui fait
