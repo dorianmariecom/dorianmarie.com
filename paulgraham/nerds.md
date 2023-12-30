@@ -31,7 +31,7 @@ Bien que ce manque de popularité les fasse souffrir, je ne pense pas que la maj
 
 Et ce, pour moi, est l’origine du problème. Les nerds servent deux maîtres. Ils veulent être populaires, certes, mais ils veulent être encore plus intelligents. Et la popularité n'est pas quelque chose que l'on peut faire dans son temps libre, ni dans l'environnement férocement compétitif d'un lycée américain.
 
-Alberti, sans doute l'archétype de l'homme de la Renaissance, écrit “qu'aucun art, aussi mineur soit-il, n'exige moins qu'un dévouement total si l'on veut y exceller"[1]. Je me demande si quelqu'un au monde travaille plus dur que les écoliers américains à la popularité. La Marine ou les résidents en neurochirurgie passent pour des fainéants en comparaison. Ils prennent des vacances, certains ont même des hobbies. Un adolescent américain s’efforce d’être populaire à chaque heure de la journée, 365 jours par an.
+Alberti, sans doute l'archétype de l'homme de la Renaissance, écrit “qu'aucun art, aussi mineur soit-il, n'exige moins qu'un dévouement total si l'on veut y exceller"[^1]. Je me demande si quelqu'un au monde travaille plus dur que les écoliers américains à la popularité. La Marine ou les résidents en neurochirurgie passent pour des fainéants en comparaison. Ils prennent des vacances, certains ont même des hobbies. Un adolescent américain s’efforce d’être populaire à chaque heure de la journée, 365 jours par an.
 
 Je ne veux pas dire qu'ils le font consciemment. Certains d'entre eux sont vraiment des petits Machiavel, mais ce que je veux dire ici, c'est que les adolescents sont toujours en devoir d'être conformistes.
 
@@ -177,7 +177,7 @@ Je ne prétends pas que les mauvaises écoles soient la raison pour laquelle les
 
 La mauvaise gouvernance engendre la rébellion ; ce n'est pas une idée nouvelle. Et pourtant, les autorités agissent toujours pour la plupart comme si les drogues étaient elles-mêmes la cause du problème.
 
-Le vrai problème est le vide de la vie scolaire. Nous ne verrons pas de solutions tant que les adultes ne s'en rendront pas compte. Les adultes qui peuvent s'en rendre compte en premier sont ceux qui étaient eux-mêmes des nerds à l'école. Voulez-vous que vos enfants soient aussi malheureux en quatrième que vous ? Je ne le ferais pas. Eh bien, alors, y a-t-il quelque chose que nous puissions faire pour réparer les choses ? Presque certainement. Il n'y a rien d'inévitable dans le système actuel. Cela s'est passé principalement par défaut [2].
+Le vrai problème est le vide de la vie scolaire. Nous ne verrons pas de solutions tant que les adultes ne s'en rendront pas compte. Les adultes qui peuvent s'en rendre compte en premier sont ceux qui étaient eux-mêmes des nerds à l'école. Voulez-vous que vos enfants soient aussi malheureux en quatrième que vous ? Je ne le ferais pas. Eh bien, alors, y a-t-il quelque chose que nous puissions faire pour réparer les choses ? Presque certainement. Il n'y a rien d'inévitable dans le système actuel. Cela s'est passé principalement par défaut [^2].
 
 Les adultes, cependant, sont occupés. Se présenter aux pièces de théâtre de l'école est une chose. S'en prendre à la bureaucratie éducative en est une autre. Peut-être que quelques-uns auront l'énergie d'essayer de changer les choses. Je soupçonne que la partie la plus difficile est de réaliser que vous le pouvez.
 
@@ -190,3 +190,18 @@ Il est important que les nerds se rendent compte aussi que l'école n'est pas la
 Si la vie semble horrible aux enfants, ce n'est ni parce que les hormones vous transforment tous en monstres (comme vos parents le croient), ni parce que la vie est en fait horrible (comme vous le croyez). C'est parce que les adultes, qui n'ont plus aucune utilité économique pour vous, vous ont abandonné pour passer des années enfermés ensemble sans rien de réel à faire. Il est horrible de vivre dans n'importe quelle société de ce type. Vous n'avez pas besoin de chercher plus loin pour expliquer pourquoi les adolescents sont malheureux.
 
 J'ai dit des choses dures dans cet essai, mais la thèse est vraiment optimiste - que plusieurs problèmes que nous tenons pour acquis ne sont en fait pas insolubles après tout. Les adolescents ne sont pas intrinsèquement des monstres malheureux. Cela devrait être une nouvelle encourageante pour les enfants et les adultes.
+
+[^1]: Alberti, Leon Battista, The Use and Abuse of Books, traduit par Renée Watkins, Waveland Press, 1999.
+
+[^2]: Alors, comment réparez-vous les écoles ? La clé de la réponse peut être
+    l'université. Lorsque vous allez dans (une bonne) université, la plupart des
+    problèmes que je décris sont résolus. La solution peut donc venir de la
+    question suivante : comment faire en sorte que la vie des nerds adolescents
+    ressemble davantage à la vie universitaire ?<br>
+    <br>
+    L'enseignement à domicile offre une solution immédiate, mais ce n'est
+    probablement pas la solution optimale. Pourquoi les parents n'éduquent-ils
+    pas leurs enfants à la maison tout au long de l'université ? Parce que
+    l'université offre des opportunités, l'enseignement à domicile ne peut pas
+    se doubler ? Il en serait de même pour le lycée si c'était bien fait.
+

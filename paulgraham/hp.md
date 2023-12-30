@@ -33,7 +33,7 @@ Alors, pourquoi les universités et les laboratoires de recherche continuent-ils
 
 Mesurer ce que les hackers essaient réellement de faire, concevoir de beaux logiciels, serait beaucoup plus difficile. Vous avez besoin d'un bon sens du design pour juger du bon design. Et il n'y a pas de corrélation, sauf peut-être négative, entre la capacité des gens à reconnaître un bon design et leur confiance qu'ils peuvent le faire.
 
-Le seul test externe est le temps. Au fil du temps, les belles choses ont tendance à prospérer, et les choses laides ont tendance à être jetées. Malheureusement, le temps nécessaire peut être plus long que les vies humaines. Samuel Johnson a déclaré qu'il a fallu cent ans pour que la représentation d'un écrivain convergeant [1]. Il faut attendre que les amis influents de l'écrivain meurent, puis que tous leurs disciples meurent.
+Le seul test externe est le temps. Au fil du temps, les belles choses ont tendance à prospérer, et les choses laides ont tendance à être jetées. Malheureusement, le temps nécessaire peut être plus long que les vies humaines. Samuel Johnson a déclaré qu'il a fallu cent ans pour que la représentation d'un écrivain convergeant [^1]. Il faut attendre que les amis influents de l'écrivain meurent, puis que tous leurs disciples meurent.
 
 Je pense que les hackers doivent juste se résigner à avoir une grande composante aléatoire dans leur réputation. En cela, ils ne sont pas différents des autres fabricants. En fait, ils ont de la chance en comparaison. L'influence de la mode n'est pas aussi grande dans le bidouillage que dans la peinture.
 
@@ -75,15 +75,15 @@ Tous les fabricants sont confrontés à ce problème. Les prix sont déterminés
 
 Je pense que la réponse à ce problème, dans le cas des logiciels, est un concept connu de presque tous les fabricants : le travail de jour. Cette phrase a commencé avec des musiciens, qui se produisent la nuit. Plus généralement, cela signifie que vous avez un type de travail que vous faites pour l'argent, et un autre pour l'amour.
 
-Presque tous les fabricants ont un emploi de jour au début de leur carrière. Les peintres et les écrivains le font notoirement. Si vous avez de la chance, vous pouvez obtenir un emploi de jour étroitement lié à votre vrai travail. Les musiciens semblent souvent travailler dans les magasins de disques. Un hacker travaillant sur un langage de programmation ou un système d'exploitation pourrait également être en mesure d'obtenir un emploi de jour en l’utilisant [2].
+Presque tous les fabricants ont un emploi de jour au début de leur carrière. Les peintres et les écrivains le font notoirement. Si vous avez de la chance, vous pouvez obtenir un emploi de jour étroitement lié à votre vrai travail. Les musiciens semblent souvent travailler dans les magasins de disques. Un hacker travaillant sur un langage de programmation ou un système d'exploitation pourrait également être en mesure d'obtenir un emploi de jour en l’utilisant [^2].
 
 Quand je dis que la réponse est que les hackers ont des emplois de jour et travaillent sur de beaux logiciels sur le côté, je ne propose pas cela comme une nouvelle idée. C'est ce qu'est le piratage open source. Ce que je dis, c'est que l'open source est probablement le bon modèle, car il a été confirmé de manière indépendante par tous les autres fabricants.
 
-Il me semble surprenant que n'importe quel employeur soit réticent à laisser les hackers travailler sur des projets open source. Chez Viaweb, nous aurions été réticents à embaucher quelqu'un qui ne l'avait pas fait. Lorsque nous avons interviewé les programmeurs, la principale chose dont nous nous souciions était le type de logiciel qu'ils écrivaient pendant leur temps libre. Vous ne pouvez rien faire vraiment bien à moins que vous ne l'aimiez, et si vous aimez bidouiller, vous travaillerez inévitablement sur vos propres projets [3].
+Il me semble surprenant que n'importe quel employeur soit réticent à laisser les hackers travailler sur des projets open source. Chez Viaweb, nous aurions été réticents à embaucher quelqu'un qui ne l'avait pas fait. Lorsque nous avons interviewé les programmeurs, la principale chose dont nous nous souciions était le type de logiciel qu'ils écrivaient pendant leur temps libre. Vous ne pouvez rien faire vraiment bien à moins que vous ne l'aimiez, et si vous aimez bidouiller, vous travaillerez inévitablement sur vos propres projets [^3].
 
 Parce que les hackers sont des créateurs plutôt que des scientifiques, le bon endroit pour chercher des métaphores n'est pas dans les sciences, mais parmi d'autres types de fabricants. Qu'est-ce que la peinture peut nous apprendre d'autre sur le bidouillage informatique ?
 
-Une chose que nous pouvons apprendre, ou du moins confirmer, de l'exemple de la peinture est comment apprendre à bidouiller. Vous apprenez à peindre principalement en le faisant. Idem pour le bidouillage. La plupart des hackers n'apprennent pas à bidouiller en suivant des cours universitaires de programmation. Ils apprennent en écrivant leurs propres programmes à l'âge de treize ans. Même dans les cours universitaires, vous apprenez à bidouiller principalement en bidouillant [4].
+Une chose que nous pouvons apprendre, ou du moins confirmer, de l'exemple de la peinture est comment apprendre à bidouiller. Vous apprenez à peindre principalement en le faisant. Idem pour le bidouillage. La plupart des hackers n'apprennent pas à bidouiller en suivant des cours universitaires de programmation. Ils apprennent en écrivant leurs propres programmes à l'âge de treize ans. Même dans les cours universitaires, vous apprenez à bidouiller principalement en bidouillant [^4].
 
 Parce que les peintres laissent derrière eux une traînée de travail, vous pouvez les regarder apprendre en faisant. Si vous regardez l'œuvre d'un peintre dans l'ordre chronologique, vous constaterez que chaque peinture s'appuie sur des choses apprises dans les précédentes. Lorsqu'il y a quelque chose dans une peinture qui fonctionne particulièrement bien, vous pouvez généralement en trouver la version 1 sous une forme plus petite dans une peinture antérieure.
 
@@ -139,17 +139,17 @@ Quand j'étais enfant, on me disait constamment de regarder les choses du point 
 
 Oh que j'avais tort. Il s'avère que regarder les choses du point de vue des autres est pratiquement le secret du succès.
 
-L'empathie ne signifie pas nécessairement être dévoué.e. Loin de ça. Comprendre comment quelqu'un d'autre voit les choses n'implique pas que vous agirez dans son intérêt ; dans certaines situations - en guerre, par exemple - vous voulez faire exactement le contraire [5].
+L'empathie ne signifie pas nécessairement être dévoué.e. Loin de ça. Comprendre comment quelqu'un d'autre voit les choses n'implique pas que vous agirez dans son intérêt ; dans certaines situations - en guerre, par exemple - vous voulez faire exactement le contraire [^5].
 
 La plupart des fabricants font des choses pour un public humain. Et pour évaluer un public, vous devez comprendre ce dont il a besoin. Presque toutes les plus grandes peintures sont des peintures de personnes, par exemple, parce que les gens sont ce qui intéresse les gens.
 
-L'empathie est probablement la différence la plus importante entre un bon et un grand hacker. Certains sont assez intelligents, mais pratiquement solipsistes en matière d'empathie. Il est difficile pour de telles personnes de concevoir d'excellents logiciels, car elles ne peuvent pas voir les choses du point de vue de l’utilisateur [6].
+L'empathie est probablement la différence la plus importante entre un bon et un grand hacker. Certains sont assez intelligents, mais pratiquement solipsistes en matière d'empathie. Il est difficile pour de telles personnes de concevoir d'excellents logiciels, car elles ne peuvent pas voir les choses du point de vue de l’utilisateur [^6].
 
 Une façon de dire à quel point les gens sont bons en matière d'empathie est de les regarder expliquer une question technique à quelqu'un qui n'a pas de formation technique. Nous connaissons probablement tous des gens qui, bien que par ailleurs intelligents, sont juste comiquement mauvais dans ce domaine. Si quelqu'un leur demande lors d'un dîner ce qu'est un langage de programmation, il dira quelque chose comme "Oh, un langage de haut niveau est ce que le compilateur utilise comme entrée pour générer du code objet". Langue de haut niveau ? Compilateur ? Code objet ? Quelqu'un qui ne sait pas ce qu'est un langage de programmation ne sait évidemment pas non plus ce que sont ces choses.
 
-Une partie de ce que les logiciels ont à faire est de s'expliquer. Donc, pour écrire un bon logiciel, vous devez comprendre à quel point les utilisateurs comprennent peu. Ils vont marcher jusqu'au logiciel sans préparation, et il ferait mieux de faire ce qu'ils pensent qu'il fera, parce qu'ils ne vont pas lire le manuel. Le meilleur système que j'ai jamais vu à cet égard était le Macintosh original, en 1984. Il a fait ce que le logiciel ne fait presque jamais : il a juste fonctionné [7].
+Une partie de ce que les logiciels ont à faire est de s'expliquer. Donc, pour écrire un bon logiciel, vous devez comprendre à quel point les utilisateurs comprennent peu. Ils vont marcher jusqu'au logiciel sans préparation, et il ferait mieux de faire ce qu'ils pensent qu'il fera, parce qu'ils ne vont pas lire le manuel. Le meilleur système que j'ai jamais vu à cet égard était le Macintosh original, en 1984. Il a fait ce que le logiciel ne fait presque jamais : il a juste fonctionné [^7].
 
-Le code source devrait également s'expliquer de lui-même. Si je pouvais amener les gens à se souvenir d'une seule citation sur la programmation, ce serait celle du début de la structure et de l'interprétation des programmes informatiques [8].
+Le code source devrait également s'expliquer de lui-même. Si je pouvais amener les gens à se souvenir d'une seule citation sur la programmation, ce serait celle du début de la structure et de l'interprétation des programmes informatiques [^8].
 
 Les programmes doivent être écrits pour que les gens les lisent, et seulement accessoirement pour que les machines les exécutent.
 
@@ -157,7 +157,7 @@ Les programmes doivent être écrits pour que les gens les lisent, et seulement 
 
 Federico da Montefeltro de Piero della Francesca, 1465-66 (détail).
 
-Vous devez avoir de l'empathie non seulement pour vos utilisateurs, mais aussi pour vos lecteurs. C'est dans votre intérêt, parce que vous serez l'un d'entre eux. Beaucoup de hackers ont écrit un programme pour découvrir, à leur retour six mois plus tard, qu'ils n'avaient aucune idée de son fonctionnement. Je connais plusieurs personnes qui ont juré Perl après de telles expériences [9].
+Vous devez avoir de l'empathie non seulement pour vos utilisateurs, mais aussi pour vos lecteurs. C'est dans votre intérêt, parce que vous serez l'un d'entre eux. Beaucoup de hackers ont écrit un programme pour découvrir, à leur retour six mois plus tard, qu'ils n'avaient aucune idée de son fonctionnement. Je connais plusieurs personnes qui ont juré Perl après de telles expériences [^9].
 
 Le manque d'empathie est associé à l'intelligence, au point qu'il y a même quelque chose de mode pour cela à certains endroits. Mais je ne pense pas qu'il y ait de corrélation. Vous pouvez bien réussir en mathématiques et en sciences naturelles sans avoir à apprendre l'empathie, et les gens dans ces domaines ont tendance à être intelligents, de sorte que les deux qualités en sont ainsi associées. Mais il y a beaucoup de gens stupides qui sont aussi mauvais en empathie.
 
@@ -173,3 +173,24 @@ Ce que nous pouvons dire avec une certaine confiance, c'est que ce sont les jour
 Encore et encore, nous voyons le même schéma. Un nouveau médium apparaît, et les gens sont tellement enthousiastes qu'ils explorent la plupart de ses possibilités au cours des deux premières générations. Le bidouillage informatique semble être dans cette phase maintenant.
 
 La peinture n'était pas, à l'époque de Léonard de Vinci, aussi cool que son travail l'a fait. La façon dont le piratage s'avère cool dépendra de ce que nous pouvons faire avec ce nouveau média.
+
+[^1]: Johnson a écrit dans la préface de son Shakespeare :<br>
+    <br>
+    « Il a longtemps survécu à son siècle, le terme communément fixé comme le test du mérite littéraire. Quels que soient les avantages qu'il pouvait autrefois tirer des allusions personnelles, des coutumes locales ou des opinions temporaires, ont été perdus pendant de nombreuses années ; et tout le choix de la gaieté ou du motif du chagrin, que les modes de vie artificielle lui offraient, n'obscurcissent maintenant que les scènes qu'ils éclairaient autrefois. Les effets de la faveur et de la concurrence sont à leur fin ; la tradition de ses amitiés et de ses inimitiés a péri ; ses œuvres ne soutiennent aucune opinion avec des arguments, ni ne fournissent à aucune faction des invectives ; elles ne peuvent se livrer à la vanité ni à la malignité satisfaite, mais sont lues sans autre raison que le désir de plaisir, et ne sont donc louées que lorsque le plaisir est obtenu...»
+
+
+[^2]:
+
+[^3]:
+
+[^4]:
+
+[^5]:
+
+[^6]:
+
+[^7]:
+
+[^8]:
+
+[^9]:
