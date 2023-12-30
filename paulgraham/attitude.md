@@ -96,8 +96,9 @@ plaisante à Multics : Unix.
 <figure>
 <img src="img/attitude/jobs.png"
 alt="Jobs et Wozniak avec un dispositif de contournement, 1975." />
-<figcaption aria-hidden="true">Jobs et Wozniak avec un dispositif de
-contournement, 1975.</figcaption>
+<figcaption aria-hidden="true">
+Jobs et Wozniak avec un dispositif de contournement, 1975.
+</figcaption>
 </figure>
 
 Jobs et Wozniak avec un dispositif de contournement, 1975.

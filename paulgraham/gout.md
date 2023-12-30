@@ -199,7 +199,9 @@ vous-même.
 
 <figure>
 <img src="img/gout/porsche.png" alt="Porsche 911E, 1973" />
-<figcaption aria-hidden="true">Porsche 911E, 1973</figcaption>
+<figcaption aria-hidden="true">
+Porsche 911E, 1973
+</figcaption>
 </figure>
 
 Porsche 911E, 1973
@@ -361,8 +363,9 @@ lorsque votre réponse ressemble à celle de la nature.
 <figure>
 <img src="img/gout/tour.png"
 alt="Tour Eiffel, 1889. Une tour sur une tour." />
-<figcaption aria-hidden="true">Tour Eiffel, 1889. Une tour sur une
-tour.</figcaption>
+<figcaption aria-hidden="true">
+Tour Eiffel, 1889. Une tour sur une tour.
+</figcaption>
 </figure>
 
 Tour Eiffel, 1889. Une tour sur une tour.
@@ -389,8 +392,9 @@ cinquante ans.
 <figure>
 <img src="img/gout/cheval.png"
 alt="Léonard de Vinci, étude d’un cheval d’élevage, 1481-99." />
-<figcaption aria-hidden="true">Léonard de Vinci, étude d’un cheval
-d’élevage, 1481-99.</figcaption>
+<figcaption aria-hidden="true">
+Léonard de Vinci, étude d’un cheval d’élevage, 1481-99.
+</figcaption>
 </figure>
 
 Léonard de Vinci, étude d’un cheval d’élevage, 1481-99.
@@ -458,7 +462,9 @@ processus.
 
 <figure>
 <img src="img/gout/lockheed.png" alt="Lockheed SR-71, 1964." />
-<figcaption aria-hidden="true">Lockheed SR-71, 1964.</figcaption>
+<figcaption aria-hidden="true">
+Lockheed SR-71, 1964.
+</figcaption>
 </figure>
 
 Lockheed SR-71, 1964.
@@ -497,8 +503,9 @@ sortir par l’autre côté.
 <figure>
 <img src="img/gout/chasseurs.png"
 alt="Les chasseurs dans la neige, de Bruegel, 1565." />
-<figcaption aria-hidden="true">Les chasseurs dans la neige, de Bruegel,
-1565.</figcaption>
+<figcaption aria-hidden="true">
+Les chasseurs dans la neige, de Bruegel, 1565.
+</figcaption>
 </figure>
 
 Les chasseurs dans la neige, de Bruegel, 1565.

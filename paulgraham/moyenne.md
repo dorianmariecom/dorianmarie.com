@@ -82,8 +82,9 @@ ne considérer que ce qui fonctionnera le mieux.
 <figure>
 <img src="img/moyenne/viaweb.png"
 alt="Avec Robert Morris, Viaweb, début 1996." />
-<figcaption aria-hidden="true">Avec Robert Morris, Viaweb, début
-1996.</figcaption>
+<figcaption aria-hidden="true">
+Avec Robert Morris, Viaweb, début 1996.
+</figcaption>
 </figure>
 
 Avec Robert Morris, Viaweb, début 1996.

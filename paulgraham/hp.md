@@ -428,8 +428,9 @@ facile à changer est un programme court.
 <figure>
 <img src="img/hp/ginevra.png"
 alt="Ginevra de’ Benci de Léonard de Vinci, 1474." />
-<figcaption aria-hidden="true">Ginevra de’ Benci de Léonard de Vinci,
-1474.</figcaption>
+<figcaption aria-hidden="true">
+Ginevra de’ Benci de Léonard de Vinci, 1474.
+</figcaption>
 </figure>
 
 Ginevra de’ Benci de Léonard de Vinci, 1474.
@@ -576,8 +577,9 @@ seulement accessoirement pour que les machines les exécutent.
 <figure>
 <img src="img/hp/federico.png"
 alt="Federico da Montefeltro de Piero della Francesca, 1465-66 (détail)." />
-<figcaption aria-hidden="true">Federico da Montefeltro de Piero della
-Francesca, 1465-66 (détail).</figcaption>
+<figcaption aria-hidden="true">
+Federico da Montefeltro de Piero della Francesca, 1465-66 (détail).
+</figcaption>
 </figure>
 
 Federico da Montefeltro de Piero della Francesca, 1465-66 (détail).
@@ -635,8 +637,8 @@ La peinture n’était pas, à l’époque de Léonard de Vinci, aussi cool que
 son travail l’a fait. La façon dont le piratage s’avère cool dépendra de
 ce que nous pouvons faire avec ce nouveau média.
 
-[^1]: Johnson a écrit dans la préface de son Shakespeare :<br> <br> « Il
-    a longtemps survécu à son siècle, le terme communément fixé comme le
+[^1]: Johnson a écrit dans la préface de son Shakespeare :<br><br>« Il a
+    longtemps survécu à son siècle, le terme communément fixé comme le
     test du mérite littéraire. Quels que soient les avantages qu’il
     pouvait autrefois tirer des allusions personnelles, des coutumes
     locales ou des opinions temporaires, ont été perdus pendant de
@@ -651,18 +653,58 @@ ce que nous pouvons faire avec ce nouveau média.
     autre raison que le désir de plaisir, et ne sont donc louées que
     lorsque le plaisir est obtenu…»
 
-[^2]:
+[^2]: La pire chose que la photographie a faite à la peinture a
+    peut-être été de tuer le meilleur travail de jour. La plupart des
+    grands peintres de l’histoire se sont soutenus en peignant des
+    portraits. Peu après l’invention de la photographie, ils ont été
+    concurrencés par des hackers qui travaillaient à partir de
+    photographies. (Cette méthode est également plus facile pour la
+    gardienne.) La classe de peintres techniquement qualifiés a alors
+    plus ou moins disparu, et le rôle de la compétence dans le prix de
+    la peinture a été remplacé par la marque (qui dépend également
+    grandement de la photographie, ou, plus précisément, des
+    photographies reproduites dans des livres et des magazines).
 
-[^3]:
+[^3]: Microsoft décourage les employés de contribuer à des projets open
+    source, même pendant leur temps libre. Mais tant des meilleurs
+    hackers informatiques travaillent sur des projets open source
+    maintenant que le principal effet de cette politique peut être de
+    leur rendre difficile l’embauche de programmeurs de premier ordre.
 
-[^4]:
+[^4]: Ce que vous apprenez sur la programmation à l’université est comme
+    ce que vous apprenez sur les livres ou vêtements : quel mauvais goût
+    vous aviez au lycée.
 
-[^5]:
+[^5]: Voici un exemple d’empathie appliquée. Chez Viaweb, si nous ne
+    pouvions pas décider d’entre deux alternatives, nous nous
+    demanderions, qu’est-ce que nos concurrents détesteraient le plus ?
+    À un moment donné, un concurrent a ajouté une fonctionnalité à son
+    logiciel qui était fondamentalement moins utilisée, mais comme
+    c’était l’une des rares qu’ils avaient que nous n’avions pas, ils en
+    ont fait beaucoup dans la presse commerciale. Nous aurions pu
+    essayer d’expliquer que la fonctionnalité était inutile, mais nous
+    avons décidé qu’elle ennuierait davantage notre concurrent si nous
+    la mettions en œuvre nous-mêmes, alors nous avons bidouillé notre
+    propre version cet après-midi-là.
 
-[^6]:
+[^6]: À l’exception des éditeurs de texte et des compilateurs. Les
+    hackers n’ont pas besoin d’empathie pour les concevoir, car ils sont
+    eux-mêmes des utilisateurs typiques.
 
-[^7]:
+[^7]: Eh bien, presque. Ils ont quelque peu dépassé la RAM disponible,
+    provoquant beaucoup d’échange de disques, mais cela pourrait être
+    résolu en achetant un lecteur de disque supplémentaire.
 
-[^8]:
+[^8]: Abelson, Harold et Gerald Sussman, Structure and Interpretation of
+    Computer Programs, MIT Press, 1985.
 
-[^9]:
+[^9]: La façon de rendre les programmes faciles à lire est de ne pas les
+    remplir de commentaires. Je prendrais la règle d’Abelson et Sussman
+    un peu plus loin. Les langages de programmation doivent être conçus
+    pour exprimer des algorithmes, et seulement accessoirement pour
+    indiquer aux ordinateurs comment les exécuter. Un bon langage de
+    programmation devrait être meilleur pour expliquer les logiciels que
+    l’anglais. Vous ne devriez avoir besoin de commentaires que
+    lorsqu’il y a une sorte de kludge dont vous devez avertir les
+    lecteurs, tout comme sur une route, il n’y a que des flèches sur des
+    parties aux courbes étonnamment nettes.

@@ -88,7 +88,9 @@ soit un spam, Pspam\|w que je calcule comme suit :
 
 <figure>
 <img src="img/spam/pspam.png" alt="Pspam|w" />
-<figcaption aria-hidden="true">Pspam|w</figcaption>
+<figcaption aria-hidden="true">
+Pspam\|w
+</figcaption>
 </figure>
 
 Où w est le jeton dont nous calculons la probabilité, bon et mauvais
@@ -124,7 +126,9 @@ intéressants, vous calculez la probabilité combinée de cette manière :
 
 <figure>
 <img src="img/spam/probabilite.png" alt="probabilitée combinée" />
-<figcaption aria-hidden="true">probabilitée combinée</figcaption>
+<figcaption aria-hidden="true">
+probabilitée combinée
+</figcaption>
 </figure>
 
 Une question qui se pose dans la pratique est la probabilité d’attribuer

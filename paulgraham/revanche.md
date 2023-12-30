@@ -124,8 +124,9 @@ pertinente, et encore moins supérieure aux derniers développements ?
 <figure>
 <img src="img/revanche/ibm.png"
 alt="IBM 704, Lawrence Livermore, 1956." />
-<figcaption aria-hidden="true">IBM 704, Lawrence Livermore,
-1956.</figcaption>
+<figcaption aria-hidden="true">
+IBM 704, Lawrence Livermore, 1956.
+</figcaption>
 </figure>
 
 IBM 704, Lawrence Livermore, 1956.
@@ -153,7 +154,9 @@ exprimer les programmes Lisp dans la pratique.
 
 <figure>
 <img src="img/revanche/alpha.png" alt="Alpha nerd : John McCarthy." />
-<figcaption aria-hidden="true">Alpha nerd : John McCarthy.</figcaption>
+<figcaption aria-hidden="true">
+Alpha nerd : John McCarthy.
+</figcaption>
 </figure>
 
 Alpha nerd : John McCarthy.

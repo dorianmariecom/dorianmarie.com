@@ -20,7 +20,7 @@ vous avez dit. Les opinions que nous considérons comme inoffensives
 auraient pu vous causer de gros ennuis. J’ai déjà dit au moins une chose
 qui m’aurait causé de gros ennuis dans la majeure partie de l’Europe au
 XVIIe siècle, et qui a causé de gros ennuis à Galilée lorsqu’il l’a dit
-: la terre bouge \[1\].
+: la terre bouge [^1].
 
 Les nerds ont toujours des ennuis. Ils disent des choses inappropriées
 pour la même raison qu’ils s’habillent de manière démodée et ont de
@@ -87,7 +87,7 @@ voix.
 
 Que ne pouvons-nous pas dire ? Une façon de trouver ces idées est
 simplement de regarder ce que les gens disent et d’avoir des ennuis
-\[2\].
+[^2].
 
 Bien sûr, nous ne cherchons pas seulement des choses que nous ne pouvons
 pas dire. Nous recherchons des choses que nous ne pouvons pas dire qui
@@ -169,7 +169,7 @@ penser.
 
 En 1989, des chercheurs intelligents ont suivi les mouvements oculaires
 des radiologistes alors qu’ils scandaient les images de la poitrine à la
-recherche de signes de cancer du poumon \[3\]. Ils ont constaté que même
+recherche de signes de cancer du poumon [^3]. Ils ont constaté que même
 lorsque les radiologistes manquaient une lésion cancéreuse, leurs yeux
 s’étaient généralement mis en pause sur le site. Une partie de leur
 cerveau savait qu’il y avait quelque chose là-bas ; cela ne s’est tout
@@ -204,7 +204,7 @@ raisonnables pouvaient croire.
 
 Voici donc une autre source d’hérésies intéressantes. Différez les idées
 actuelles par rapport à celles de diverses cultures passées, et voyez ce
-que vous obtenez \[4\]. Certaines seront choquantes par rapport aux
+que vous obtenez [^4]. Certaines seront choquantes par rapport aux
 normes actuelles. Ok, d’accord ; mais qu’est-ce qui pourrait aussi être
 vrai ?
 
@@ -219,7 +219,7 @@ peut sembler choquant de penser x, tandis que dans une autre, il serait
 choquant de ne pas le faire. Mais je pense que le choc est généralement
 d’un côté. Dans une culture, x est correct, et dans une autre, il est
 considéré comme choquant. Mon hypothèse est la suivante : que le côté
-qui est choqué est le plus susceptible d’être celui qui se trompe \[5\].
+qui est choqué est le plus susceptible d’être celui qui se trompe [^5].
 
 Je soupçonne que les seuls tabous qui sont plus que des tabous sont ceux
 qui sont universels, ou presque. Le meurtre par exemple. Mais toute idée
@@ -255,7 +255,7 @@ approprié que les idées des enfants soient brillantes et propres.
 L’image que nous leur donnons du monde n’est pas simplement simplifiée,
 pour s’adapter à leur esprit en développement, mais aussi désinfectée,
 pour s’adapter à nos idées sur ce que les enfants devraient penser
-\[6\].
+[^6].
 
 Vous pouvez le voir à petite échelle en matière de “gros mots”. Beaucoup
 de mes amis commencent à avoir des enfants maintenant, et ils essaient
@@ -265,7 +265,7 @@ font partie du langage, et les adultes les utilisent tout le temps. Les
 parents donnent donc à leurs enfants une idée inexacte de la langue en
 ne les utilisant pas. Pourquoi font-ils cela ? Parce qu’ils ne pensent
 pas qu’il soit approprié que les enfants utilisent toute la langue. Nous
-aimons que les enfants paraissent innocents \[7\].
+aimons que les enfants paraissent innocents [^7].
 
 De même, la plupart des adultes donnent délibérément aux enfants une
 vision trompeuse du monde. L’un des exemples les plus évidents est le
@@ -357,7 +357,7 @@ qu’elles le soient ou non. Et tout comme il n’y a rien d’aussi démodé
 que la dernière mode abandonnée, il n’y a rien d’aussi mal que les
 principes de l’adversaire le plus récemment vaincu. L’art de la
 représentation ne se remet que de l’approbation d’Hitler et de Staline
-\[8\].
+[^8].
 
 Bien que les modes dans les idées aient tendance à provenir de sources
 différentes de celles des modes dans les vêtements, le mécanisme de leur
@@ -365,7 +365,7 @@ adoption semble à peu près le même. Les premiers adoptants seront
 motivés par l’ambition : des gens consciemment cool qui veulent se
 distinguer de l’élevage commun. Au fur et à mesure que la mode
 s’établira, ils seront rejoints par un deuxième groupe, beaucoup plus
-grand, poussé par la peur \[9\]. Ce deuxième groupe adopte la mode non
+grand, poussé par la peur [^9]. Ce deuxième groupe adopte la mode non
 pas parce qu’il veut se démarquer, mais parce qu’il a peur de se
 démarquer.
 
@@ -430,7 +430,7 @@ Pourquoi ? Il se pourrait que les scientifiques soient tout simplement
 plus intelligents ; la plupart des physiciens pourraient, si nécessaire,
 passer par un programme de doctorat en littérature française, mais peu
 de professeurs de littérature française pourraient passer par un
-programme de doctorat en physique \[10\]. Ou cela pourrait être - parce
+programme de doctorat en physique [^10]. Ou cela pourrait être - parce
 qu’il est plus clair dans les sciences si les théories sont vraies ou
 fausses, et cela rend les scientifiques plus audacieux. (Ou il se
 pourrait que, parce qu’il est plus clair dans les sciences si les
@@ -456,7 +456,7 @@ seconde : ils fabriquent de mauvaises voitures. Et ils l’ont depuis si
 longtemps que, maintenant, les marques de voitures américaines sont des
 anti marques - quelque chose que vous achèteriez une voiture malgré, pas
 à cause de. Cadillac a cessé d’être la Cadillac des voitures vers 1970.
-Et pourtant, je soupçonne que personne n’ose le dire \[11\]. Sinon, ces
+Et pourtant, je soupçonne que personne n’ose le dire [^11]. Sinon, ces
 entreprises auraient essayé de résoudre le problème.
 
 S’entraîner à penser à des pensées impensables a des avantages au-delà
@@ -510,14 +510,14 @@ emprisonné pour eux, vous aurez au moins assez d’ennuis pour que cela
 devienne une distraction complète.
 
 J’avoue qu’il semble lâche de se taire. Quand j’ai lu sur le harcèlement
-auquel les scientologues soumettent leurs critiques \[12\] ou des
+auquel les scientologues soumettent leurs critiques [^12] ou des
 personnes marquées comme antisémites pour s’être prononcées contre les
-violations des droits de l’homme israéliens \[13\] ou des chercheurs
-menacés de poursuites en vertu de la loi DMCA \[14\], une partie de moi
+violations des droits de l’homme israéliens [^13] ou des chercheurs
+menacés de poursuites en vertu de la loi DMCA [^14], une partie de moi
 a envie de dire : “D’accord, bande de salauds, allez-y”. Le problème,
-c’est qu’il y a tellement de choses qu’on ne peut pas dire.Si vous les
+c’est qu’il y a tellement de choses qu’on ne peut pas dire. Si vous les
 disiez tous, vous n’auriez plus de temps pour votre vrai travail. Vous
-auriez à vous transformer en Noam Chomsky \[15\].
+auriez à vous transformer en Noam Chomsky [^15].
 
 Le problème à garder vos pensées secrètes, cependant, est que vous
 perdez les avantages de la discussion. Parler d’une idée conduit à plus
@@ -528,7 +528,7 @@ bonne règle de base pour choisir des amis. Les personnes à qui vous
 pouvez dire des choses hérétiques sans vous faire sauter dessus sont
 également les plus intéressantes à connaître.
 
-Viso Sciolto ?
+**Viso Sciolto ?**
 
 La meilleure politique est peut-être de préciser que vous n’êtes pas
 d’accord avec le fanatisme actuel de votre époque, mais de ne pas être
@@ -540,7 +540,7 @@ pouvez toujours simplement répondre « ni l’un ni l’autre ».
 
 Mieux encore, répondez « Je n’ai pas décidé ». C’est ce que Larry
 Summers a fait lorsqu’un groupe a essayé de le mettre dans cette
-position \[16\]. En s’expliquant plus tard, il a dit “Je ne fais pas de
+position [^16]. En s’expliquant plus tard, il a dit “Je ne fais pas de
 tests de tournesol”. Beaucoup de questions sur lesquelles les gens se
 posent sont en fait assez compliquées. Il n’y a pas de prix pour obtenir
 la réponse rapidement.
@@ -580,7 +580,7 @@ principalement en la traitant comme une blague. De même, sa
 réincarnation en tant que politiquement correct. « Je suis heureux
 d’avoir réussi à écrire The Crucible », a écrit Arthur Miller, « mais en
 regardant en arrière, j’ai souvent souhaité avoir le tempérament de
-faire une comédie absurde, ce que la situation méritait. » \[17\].
+faire une comédie absurde, ce que la situation méritait. » [^17].
 
 Toujours Interroger
 
@@ -605,7 +605,7 @@ hypothétique prim miss de la banlieue pense qu’elle est ouverte
 d’esprit. Ne lui a-t-on pas appris à l’être ? Demandez à n’importe qui,
 et ils diront la même chose : ils sont assez ouverts d’esprit, bien
 qu’ils traduisent la ligne sur les choses qui sont vraiment fausses
-\[18\]. En d’autres termes, tout va bien, sauf les choses qui ne le sont
+[^18]. En d’autres termes, tout va bien, sauf les choses qui ne le sont
 pas.
 
 Quand les gens sont mauvais en mathématiques, ils le savent, parce
@@ -667,3 +667,22 @@ vous pouvez écarter les mauvaises humeurs de la société.
 Comment pouvez-vous voir la vague, quand vous êtes l’eau ? Toujours
 poser des questions. C’est la seule défense. Que pouvez-vous dire ? Et
 pourquoi ?
+
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
+[^11]:
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:

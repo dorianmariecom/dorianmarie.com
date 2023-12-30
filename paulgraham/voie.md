@@ -1184,8 +1184,9 @@ d’application.
 <figure>
 <img src="img/voie/electronique.png"
 alt="Électronique populaire, janvier 1975 (détail)." />
-<figcaption aria-hidden="true">Électronique populaire, janvier 1975
-(détail).</figcaption>
+<figcaption aria-hidden="true">
+Électronique populaire, janvier 1975 (détail).
+</figcaption>
 </figure>
 
 Électronique populaire, janvier 1975 (détail).
@@ -1289,7 +1290,9 @@ l’eau jusqu’à la taille.
 
 <figure>
 <img src="img/voie/bill.png" alt="Bill Gates, 1977." />
-<figcaption aria-hidden="true">Bill Gates, 1977.</figcaption>
+<figcaption aria-hidden="true">
+Bill Gates, 1977.
+</figcaption>
 </figure>
 
 Bill Gates, 1977.

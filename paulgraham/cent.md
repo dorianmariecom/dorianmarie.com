@@ -67,8 +67,8 @@ cas, « rester sur une branche principale » devient plus qu’un moyen de
 choisir un bon langage. Cela devient une heuristique pour prendre les
 bonnes décisions en matière de conception du langage.
 
-N’importe quel langage de programmation peut être divisé en deux parties
-: un ensemble d’opérateurs fondamentaux qui jouent le rôle d’axiomes, et
+N’importe quel langage de programmation peut être divisé en deux parties  
+un ensemble d’opérateurs fondamentaux qui jouent le rôle d’axiomes, et
 le reste du langage, qui pourrait en principe être écrit en termes de
 ces opérateurs fondamentaux.
 

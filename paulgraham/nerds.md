@@ -125,8 +125,9 @@ faire; c’est pour cela qu’ils sont bons.
 <figure>
 <img src="img/nerds/gateway.png"
 alt="Club d’échecs du lycée Gateway, 1981. C’est moi en haut à gauche." />
-<figcaption aria-hidden="true">Club d’échecs du lycée Gateway, 1981.
-C’est moi en haut à gauche.</figcaption>
+<figcaption aria-hidden="true">
+Club d’échecs du lycée Gateway, 1981. C’est moi en haut à gauche.
+</figcaption>
 </figure>
 
 Club d’échecs du lycée Gateway, 1981. C’est moi en haut à gauche.
