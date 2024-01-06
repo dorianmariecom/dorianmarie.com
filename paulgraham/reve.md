@@ -185,7 +185,7 @@ La concision est un endroit où les langages dactylographiés statiquement
 perdent. Toutes choses étant égales par ailleurs, personne ne veut
 commencer un programme avec un tas de déclarations. Tout ce qui peut
 être implicite, devrait l’être. La quantité de boilerplate dans un
-programme Java hello-world est presque suffisante pour condamner \[1\].
+programme Java hello-world est presque suffisante pour condamner [^1].
 
 Les jetons individuels doivent également être courts. Perl et Common
 Lisp occupent des pôles opposés sur cette question. Les programmes Perl
@@ -234,7 +234,7 @@ d’être capable de le faire. Et il peut s’agir peut-être plus qu’une
 question de résolution d’un problème. Il y a une sorte de plaisir ici
 aussi. Les hackers partagent le plaisir secret du chirurgien à fouiller
 dans les entrailles grossières, le plaisir secret de l’adolescent à
-faire éclater des boutons \[2\] Pour les garçons, au moins, ce genre
+faire éclater des boutons [^2] Pour les garçons, au moins, ce genre
 d’horreurs est fascinant. Le magazine Maxim publie un volume annuel de
 photographies, contenant un mélange de pin-ups et d’accidents macabres.
 Ils connaissent leur public.
@@ -630,7 +630,7 @@ peut être dictée par le niveau supérieur.
 
 En résumé, essayons de décrire le langage de rêve du hacker. Le langage
 des rêves est propre et laconique. Il a un niveau supérieur interactif
-qui démarre rapidement \[3\]. Vous pouvez écrire des programmes pour
+qui démarre rapidement [^3]. Vous pouvez écrire des programmes pour
 résoudre des problèmes avec très peu de code. Presque tout le code de
 tout programme que vous écrivez est un code spécifique à votre
 application. Tout le reste a été fait pour vous.

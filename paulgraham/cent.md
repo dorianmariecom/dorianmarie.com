@@ -227,7 +227,7 @@ La bonne façon de résoudre ce problème est de séparer la signification
 d’un programme des détails de la mise en œuvre. Au lieu d’avoir à la
 fois des listes et des chaînes, n’ayez que des listes, avec un moyen de
 donner au compilateur des conseils d’optimisation qui lui permettront de
-présenter des chaînes en octets contigus si nécessaire \[1\].
+présenter des chaînes en octets contigus si nécessaire [^1].
 
 Étant donné que la vitesse n’a pas d’importance dans la majeure partie
 des programmes, vous n’aurez normalement pas besoin de vous préoccuper

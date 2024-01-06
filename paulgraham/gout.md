@@ -278,7 +278,7 @@ degrés, les gens le remarquent.
 
 Lorsque les concepteurs du Bauhaus ont adopté la “forme suit la
 fonction” de Sullivan, ce qu’ils signifient était, la forme devrait
-suivre la fonction \[1\]. Et si la fonction est assez difficile, la
+suivre la fonction [^1]. Et si la fonction est assez difficile, la
 forme est forcée de la suivre, car il n’y a pas d’effort à ménager pour
 l’erreur. Les animaux sauvages sont beaux parce qu’ils ont une vie
 difficile.
@@ -386,7 +386,7 @@ attendre une meilleure technologie. Les premiers concepteurs d’avions se
 sont trompés à concevoir des avions qui ressemblaient à des oiseaux,
 parce qu’ils n’avaient pas de matériaux ou de sources d’énergie assez
 légers, ou de systèmes de contrôle assez sophistiqués, pour des machines
-qui volaient comme des oiseaux \[2\]. Mais je pouvais imaginer de petits
+qui volaient comme des oiseaux [^2]. Mais je pouvais imaginer de petits
 avions de reconnaissance sans pilote volant comme des oiseaux en
 cinquante ans.
 
@@ -557,7 +557,7 @@ selon Vasari, Botticelli s’est repenti et a abandonné la peinture, et
 Fra Bartolommeo et Lorenzo di Credi ont brûlé une partie de leurs
 œuvres. La théorie de la relativité d’Einstein a défendu de nombreux
 physiciens contemporains, et n’a pas été pleinement acceptée pendant des
-décennies - en France, pas avant les années 50 \[3\].
+décennies - en France, pas avant les années 50 [^3].
 
 L’erreur expérimentale d’aujourd’hui est la nouvelle théorie de demain.
 Si vous voulez découvrir de grandes nouvelles choses, alors au lieu de

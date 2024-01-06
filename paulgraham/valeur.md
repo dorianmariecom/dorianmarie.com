@@ -43,7 +43,7 @@ payant environ 80 000 \$ par an. Donc, en moyenne, un tel hacker doit
 l’entreprise juste pour atteindre le seuil de rentabilité. Vous pourriez
 probablement travailler deux fois plus d’heures qu’un employé de
 l’entreprise, et si vous vous concentrez, vous pouvez probablement
-obtenir trois fois plus de fait en une heure \[1\]. Vous devriez avoir
+obtenir trois fois plus de fait en une heure [^1]. Vous devriez avoir
 plusieurs de deux, au moins, en éliminant la traînée du cadre
 intermédiaire aux cheveux pointues qui serait votre patron dans une
 grande entreprise. Ensuite, il y a un autre multiple : à quel point
@@ -51,7 +51,7 @@ grande entreprise. Ensuite, il y a un autre multiple : à quel point
 s’attend à ce que vous soyez ? Supposons un autre multiple de trois.
 Combinez tous ces multiplicateurs, et je prétends que vous pourriez être
 36 fois plus productif que ce que vous êtes censé être dans un emploi
-d’entreprise aléatoire \[2\]. Si un assez bon hacker vaut 80 000 \$ par
+d’entreprise aléatoire [^2]. Si un assez bon hacker vaut 80 000 \$ par
 an une grande entreprise, alors un hacker intelligent qui travaille très
 dur sans aucune connerie d’entreprise pour le ralentir devrait être en
 mesure de faire un travail qui vaudrait à peu près 3 millions de \$ par
@@ -141,7 +141,7 @@ suffit de faire quelque chose que les gens veulent.
 **L’argent n’est pas la richesse**
 
 Si vous voulez créer de la richesse, cela vous aidera à comprendre ce
-que c’est. La richesse n’est pas la même chose que l’argent \[3\]. La
+que c’est. La richesse n’est pas la même chose que l’argent [^3]. La
 richesse est aussi ancienne que l’histoire humaine. Beaucoup plus
 vieille, en fait ; les fourmis ont de la richesse. L’argent est une
 invention relativement récente.
@@ -196,7 +196,7 @@ signifie réellement. Les gens pensent que ce qu’une entreprise fait,
 c’est gagner de l’argent. Mais l’argent n’est que l’étape
 intermédiaire - juste un raccourci - pour tout ce que les gens veulent.
 Ce que la plupart des entreprises font vraiment, c’est gagner de la
-richesse. Ils font quelque chose que les gens veulent \[4\].
+richesse. Ils font quelque chose que les gens veulent [^4].
 
 **L’erreur de la tarte**
 
@@ -238,7 +238,7 @@ métaphorique. Si vous vendez votre voiture, vous en obtiendrez plus.
 En restaurant votre vieille voiture, vous vous êtes rendu plus riche.
 Vous n’avez rendu personne d’autre plus pauvre. Il n’y a donc évidemment
 pas de tarte fixe. Et en fait, quand vous le regardez de cette façon,
-vous vous demandez pourquoi quelqu’un penserait qu’il y en avait \[5\].
+vous vous demandez pourquoi quelqu’un penserait qu’il y en avait [^5].
 
 Les enfants savent, sans le savoir, qu’ils peuvent créer de la richesse.
 Si vous avez besoin de donner un cadeau à quelqu’un et que vous n’avez
@@ -371,7 +371,7 @@ n’avez pas besoin de rejoindre une entreprise pour le faire. Tout ce
 qu’une entreprise est, c’est un groupe de personnes qui travaillent
 ensemble pour faire quelque chose que les gens veulent. C’est faire
 quelque chose que les gens veulent qui compte, ne pas rejoindre le
-groupe \[6\].
+groupe [^6].
 
 Pour la plupart des gens, le meilleur plan est probablement d’aller
 travailler pour une entreprise existante. Mais c’est une bonne idée de
@@ -659,7 +659,7 @@ l’entrée. Si vous allez dans un VC avec une nouvelle idée et que vous
 lui demandez d’y investir, l’une des premières choses qu’il demandera
 est, à quel point cela serait-il difficile pour quelqu’un d’autre de se
 développer ? C’est-à-dire, combien de terrain difficile avez-vous mis
-entre vous-même et les poursuivants potentiels ? \[7\] Et vous feriez
+entre vous-même et les poursuivants potentiels ? [^7] Et vous feriez
 mieux d’avoir une explication convaincante de la raison pour laquelle
 votre technologie serait difficile à reproduire. Sinon, dès qu’une
 grande entreprise en aura connaissance, elle fera la sienne, et avec sa
@@ -677,7 +677,7 @@ quotidienne pour elle. Ils s’assureront que les poursuivre en justice
 coûte cher et prend beaucoup de temps. Avez-vous déjà entendu parler de
 Philo Farnsworth ? Il a inventé la télévision. La raison pour laquelle
 vous n’avez jamais entendu parler de lui, c’est que son entreprise
-n’était pas celle qui gagnait de l’argent \[8\]. L’entreprise qui l’a
+n’était pas celle qui gagnait de l’argent [^8]. L’entreprise qui l’a
 fait était RCA, et la récompense de Farnsworth pour ses efforts a été
 une décennie de litige en matière de brevets.
 
@@ -685,7 +685,7 @@ Ici, comme souvent, la meilleure défense est une bonne attaque. Si vous
 pouvez développer une technologie qui est tout simplement trop difficile
 à dupliquer pour les concurrents, vous n’avez pas besoin d’autres
 défenses. Commencez par trouver un problème difficile, puis à chaque
-point de décision, prenez le choix le plus difficile \[9\].
+point de décision, prenez le choix le plus difficile [^9].
 
 **Le(s) piège(s)**
 
@@ -882,7 +882,7 @@ l’industrialisation.
 Beaucoup de choses ont été écrites sur les causes de la révolution
 industrielle. Mais une condition nécessaire, sinon suffisante, était
 sûrement que les gens qui ont fait fortune puissent en profiter en paix
-\[11\]. Une preuve est ce qui est arrivé aux pays qui ont essayé de
+[^11]. Une preuve est ce qui est arrivé aux pays qui ont essayé de
 revenir à l’ancien modèle, comme l’Union soviétique, et dans une moindre
 mesure à la Grande-Bretagne sous les gouvernements travaillistes des
 années 1960 et du début des années 1970. Enlevez l’incitation de la

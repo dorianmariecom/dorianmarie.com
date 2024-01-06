@@ -8,7 +8,7 @@ Chapitre 13
 Dans le secteur des logiciels, il y a une lutte en cours, entre les
 universitaires à la tête pointue et une autre force tout aussi
 formidable, les patrons aux cheveux pointus. Je crois que tout le monde
-sait qui est le patron aux cheveux pointues \[1\]. Je pense que la
+sait qui est le patron aux cheveux pointues [^1]. Je pense que la
 plupart des gens dans le monde de la technologie reconnaissent non
 seulement ce personnage de dessin animé, mais connaissent la personne
 réelle dans leur entreprise sur laquelle il est calqué.
@@ -123,7 +123,7 @@ Maintenant, comment cela a-t-il pu être vrai ? La technologie
 informatique n’est-elle pas quelque chose qui change très rapidement ?
 En 1958, les ordinateurs étaient des mastodontes de la taille d’un
 réfrigérateur avec la puissance de traitement d’une montre-bracelet
-\[2\]. Comment une technologie aussi ancienne pourrait-elle même être
+[^2]. Comment une technologie aussi ancienne pourrait-elle même être
 pertinente, et encore moins supérieure aux derniers développements ?
 
 <figure>
@@ -162,7 +162,7 @@ Alpha nerd : John McCarthy.
 </figcaption>
 </figure>
 
-Mais à la fin de 1958, Steve Russell \[3\], l’un des étudiants diplômés
+Mais à la fin de 1958, Steve Russell [^3], l’un des étudiants diplômés
 de McCarthy, a examiné cette définition de l’évaluation et s’est rendu
 compte que s’il la traduisait en langage machine, le résultat serait un
 interprète Lisp.
@@ -232,7 +232,7 @@ adoption par le grand public,
     peuvent être passés en tant qu’arguments, et ainsi de suite.
 
 3.  Récursion. Lisp a été le premier langage de haut niveau à prendre en
-    charge les fonctions récursives \[4\].
+    charge les fonctions récursives [^4].
 
 4.  Saisie dynamique. Dans Lisp, toutes les variables sont effectivement
     des pointeurs. Les valeurs sont ce qui a des types, pas des
@@ -276,7 +276,7 @@ compilation est la base des macros ; la compilation à l’exécution est la
 base de l’utilisation de Lisp comme langage d’extension dans des
 programmes comme Emacs ; et la lecture à l’exécution permet aux
 programmes de communiquer en utilisant des s-expressions, une idée
-récemment réinventée comme XML \[5\].
+récemment réinventée comme XML [^5].
 
 Lorsque Lisp est apparu pour la première fois, ces idées étaient loin de
 la pratique de programmation ordinaire, qui était dictée en grande
@@ -494,7 +494,7 @@ par exemple, ont été autour de 7 à 10 fois. Mais un article récent sur
 l’ITA dans le magazine New Architect a déclaré qu’“une ligne de Lisp
 peut remplacer 20 lignes de C”, et puisque cet article était plein de
 citations du président de l’ITA, je suppose qu’ils ont obtenu ce numéro
-de l’ITA \[6\] Si c’est le cas, alors nous pouvons lui accorder une
+de l’ITA [^6] Si c’est le cas, alors nous pouvons lui accorder une
 certaine confiance ; le logiciel de l’ITA comprend beaucoup de C et de
 C++ ainsi que Lisp, ils en parlent donc en connaissance de cause.
 
@@ -585,7 +585,7 @@ prend un nombre n, et renvoie une fonction qui prend un autre nombre i
 et renvoie n incrémenté par i. (C’est incrémenté de, pas plus. Un
 accumulateur doit s’accumuler.)
 
-Dans Common Lisp \[7\], ce serait :
+Dans Common Lisp [^7], ce serait :
 
 ``` lisp
 (defun foo (n)
@@ -773,7 +773,7 @@ une variable lexicale.
 Cette pratique est non seulement courante, mais aussi
 institutionnalisée. Par exemple, dans le monde OO, vous entendez
 beaucoup parler de “modèles”. Je me demande si ces modèles ne sont pas
-parfois une preuve du cas (c), le compilateur humain, au travail \[8\]
+parfois une preuve du cas (c), le compilateur humain, au travail [^8]
 Quand je vois des modèles dans mes programmes, je considère que c’est un
 signe de problème. La forme d’un programme ne doit refléter que le
 problème qu’il doit résoudre. Toute autre régularité dans le code est un

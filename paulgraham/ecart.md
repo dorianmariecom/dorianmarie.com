@@ -72,12 +72,12 @@ C’est tout aussi vrai aujourd’hui, bien que peu d’entre nous créent de
 la richesse directement pour nous-mêmes (à l’exception de quelques
 tâches domestiques rudimentaires). La plupart du temps, nous créons de
 la richesse pour d’autres personnes en échange d’argent, que nous
-échangeons ensuite contre les formes de richesse que nous voulons \[1\].
+échangeons ensuite contre les formes de richesse que nous voulons [^1].
 
 Parce que les enfants sont incapables de créer de la richesse, tout ce
 qu’ils ont doit leur être donné. Et quand la richesse est quelque chose
 qu’on vous donne, alors bien sûr, il semble qu’elle devrait être
-répartie de manière égale \[2\]. Comme dans la plupart des familles,
+répartie de manière égale [^2]. Comme dans la plupart des familles,
 c’est le cas. Les enfants ont tendance à faire ça. « Injuste »,
 pleurent-ils, quand un frère ou une sœur reçoit plus qu’un autre.
 
@@ -111,12 +111,12 @@ que la cause profonde de la variation de toutes les autres compétences
 humaines.
 
 Aux États-Unis, le PDG d’une grande société publique gagne environ 100
-fois plus que la personne moyenne \[3\]. Les joueurs de basket-ball
+fois plus que la personne moyenne [^3]. Les joueurs de basket-ball
 gagnent environ 128 fois plus, et les joueurs de baseball 72 fois plus.
 Les éditoriaux citent ce genre de statistiques avec horreur. Mais je
 n’ai aucun mal à imaginer qu’une personne puisse être 100 fois plus
 productive qu’une autre. Dans la Rome antique, le prix des esclaves
-variait d’un facteur de 50 en fonction de leurs compétences \[4\]. Et
+variait d’un facteur de 50 en fonction de leurs compétences [^4]. Et
 c’est sans tenir compte de la motivation, ou de l’effet de levier
 supplémentaire en productivité que vous pouvez obtenir de la technologie
 moderne.
@@ -124,7 +124,7 @@ moderne.
 Les éditoriaux sur les salaires des athlètes ou des PDG me rappellent
 les premiers écrivains chrétiens, qui discutent dès les premiers
 principes pour savoir si la Terre était ronde, quand ils pouvaient
-simplement sortir et vérifier \[5\]. Combien vaut le travail de
+simplement sortir et vérifier [^5]. Combien vaut le travail de
 quelqu’un n’est pas une question de politique. C’est quelque chose que
 le marché détermine déjà.
 
@@ -149,7 +149,7 @@ revenir sur cette question, valent-ils vraiment 100 d’entre nous ? Une
 équipe de basket-ball échangerait-elle un de ses joueurs contre 100
 personnes au hasard ? À quoi ressemblerait le prochain produit d’Apple
 si vous remplacez Steve Jobs par un comité de 100 personnes aléatoires ?
-\[6\]. Ces choses ne s’adaptent pas de manière linéaire. Peut-être que
+[^6]. Ces choses ne s’adaptent pas de manière linéaire. Peut-être que
 le PDG ou l’athlète professionnel n’a que dix fois (ce que cela
 signifie) les compétences et la détermination d’une personne ordinaire.
 Mais cela fait toute la différence qu’il soit concentré en un seul
@@ -165,7 +165,7 @@ identique à dire que les gens veulent les mauvaises choses.
 Eh bien, bien sûr, les gens veulent de mauvaises choses. Il semble
 étrange d’être surpris par cela. Et il semble encore plus étrange de
 dire qu’il est injuste que certains types de travail soient sous-payés
-\[7\]. Ensuite, vous dites qu’il est injuste que les gens veulent de
+[^7]. Ensuite, vous dites qu’il est injuste que les gens veulent de
 mauvaises choses. Il est regrettable que les gens préfèrent la
 télé-réalité et les corndogs à Shakespeare et aux légumes cuits à la
 vapeur, mais injuste ? Cela ressemble à dire que le bleu est lourd, ou
@@ -181,7 +181,7 @@ c’est exactement ce que vous obtiendriez en remarquant que certaines
 personnes font beaucoup plus de valeur que d’autres.
 
 Lorsque nous parlons de « répartition inégale des revenus », nous
-devrions également nous demander d’où vient ce revenu ? \[8\]. Qui a
+devrions également nous demander d’où vient ce revenu ? [^8]. Qui a
 fait la richesse qu’il représente ? Parce que dans la mesure où le
 revenu varie simplement en fonction de la quantité de richesse que les
 gens créent, la distribution peut être inégale, mais elle n’est pas
@@ -201,7 +201,7 @@ patrimoine confisqué aux perdants. En Angleterre dans les 1060, lorsque
 Guillaume le Conquérant distribuait les domaines des nobles anglo-saxons
 vaincus à ses disciples, le conflit était militaire. Dans les années
 1530, lorsque Henri VIII distribua les domaines des monastères à ses
-disciples \[9\], c’était principalement politique. Mais le principe
+disciples [^9], c’était principalement politique. Mais le principe
 était le même. En effet, le même principe est à l’œuvre maintenant au
 Zimbabwe.
 
@@ -221,7 +221,7 @@ villes et subvenaient à leurs besoins par la fabrication et le commerce.
 
 À partir des dixième et onzième siècles, les petits nobles et les
 anciens serfs se sont regroupés dans des villes qui sont progressivement
-devenues assez puissantes pour ignorer le seigneur féodal local \[10\].
+devenues assez puissantes pour ignorer le seigneur féodal local [^10].
 Comme les serfs, la classe du milieu de la vie en grande partie en
 créant de la richesse. (Dans les villes portuaires comme Gênes et Pise,
 ils se sont également engagés dans la piraterie.) Mais contrairement aux
@@ -248,7 +248,7 @@ L’Angleterre du XVIIe siècle ressemblait beaucoup au tiers monde
 d’aujourd’hui, dans ce bureau du gouvernement était une voie reconnue
 vers la richesse. Les grandes fortunes de cette époque dérivaient encore
 plus de ce que nous appellerions aujourd’hui la corruption que du
-commerce \[11\]. Au XIXe siècle, cela avait changé. Il y a continué à y
+commerce [^11]. Au XIXe siècle, cela avait changé. Il y a continué à y
 avoir des pots-de-vin, comme il y en a encore partout, mais la politique
 avait alors été laissée à des hommes qui étaient plus motivés par la
 vanité que par la cupidité. La technologie avait permis de créer de la
@@ -277,7 +277,7 @@ l’Europe en 1000, ou de la majeure partie du tiers monde aujourd’hui, la
 citation erronée standard serait exacte. Mais Balzac a vécu dans la
 France du XIXe siècle, où la révolution industrielle était bien avancée.
 Il savait que vous pouviez faire fortune sans la voler. Après tout, il
-l’a fait lui-même, en tant que romancier populaire \[12\].
+l’a fait lui-même, en tant que romancier populaire [^12].
 
 Seuls quelques pays (sans coïncidence, les plus riches) ont atteint ce
 stade. Dans la plupart des cas, la corruption a toujours le dessus. Dans
@@ -343,7 +343,7 @@ d’argent pour une montre, vous pouviez obtenir de meilleures
 performances. Lorsque les montres avaient des mouvements mécaniques, les
 montres chères gardaient un meilleur temps. Pas plus. Depuis l’invention
 du mouvement à quartz, un Timex ordinaire est plus précis qu’un Patek
-Philippe qui coûte des centaines de milliers de dollars \[13\]. En
+Philippe qui coûte des centaines de milliers de dollars [^13]. En
 effet, comme avec des voitures chères, si vous êtes déterminé à dépenser
 beaucoup d’argent pour une montre, vous devez supporter certains
 inconvénients pour le faire : en plus d’afficher un temps erroné, les
@@ -360,11 +360,11 @@ c’était. Si vous en aviez une, vous étiez riche. Et si vous n’étiez pas
 riche, vous preniez l’omnibus ou marchiez. Maintenant, même les
 Américains les plus pauvres conduisent des voitures, et ce n’est que
 parce que nous sommes si bien formés par la publicité que nous pouvons
-même reconnaître les voitures particulièrement chères \[14\].
+même reconnaître les voitures particulièrement chères [^14].
 
 Le même schéma s’est manifesté dans l’industrie après l’industrie. S’il
 y a suffisamment de demande pour quelque chose, la technologie le rendra
-assez bon marché pour être vendu en gros volumes \[15\], et les versions
+assez bon marché pour être vendu en gros volumes [^15], et les versions
 produites en série seront, sinon meilleures, au moins plus pratiques. Et
 il n’y a rien de plus que la commodité. Les gens riches que je connais
 conduisent les mêmes voitures, portent les mêmes vêtements, ont le même
@@ -393,7 +393,7 @@ femme qui a épousé un homme riche laisse tomber des amis qui ne l’ont
 pas fait. Vous sembleriez barbare si vous vous comportiez de cette façon
 aujourd’hui. Vous auriez aussi une vie très ennuyeuse. Les gens ont
 encore tendance à se séparer quelque peu, mais beaucoup plus sur la base
-de l’éducation que sur la richesse \[16\].
+de l’éducation que sur la richesse [^16].
 
 Matériellement et socialement, la technologie semble réduire l’écart
 entre les riches et les pauvres, et non l’augmenter. Si Lénine se

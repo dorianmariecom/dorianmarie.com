@@ -219,7 +219,7 @@ il y a moins de pression pour écrire des applications dans des langages
 aussi bas que C, mais tout le monde semble toujours vouloir que les
 systèmes d’exploitation soient aussi rapides que possible. (Ou peut-être
 veulent-ils que la perspective d’attaques de débordement de mémoire les
-maintienne en alerte \[1\].)
+maintienne en alerte [^1].)
 
 **Ceintures de sécurité ou Menottes ?**
 
@@ -326,7 +326,7 @@ probablement plus importantes que le langage de base. Et donc ces
 hybrides étranges sont très utiles, et deviennent en conséquence
 populaires. Un Yugo avec un moteur à réaction boulonné au toit pourrait
 en fait fonctionner, tant que vous n’avez pas essayé de prendre un
-virage dedans \[2\].
+virage dedans [^2].
 
 Un autre résultat est une grande variété. Il y a toujours eu beaucoup de
 variété dans les langages de programmation. Fortran, Lisp et APL
@@ -342,7 +342,7 @@ langage ». Mais il n’y a pas de contradiction ici. La Renaissance était
 pleine de guerres.
 
 En effet, de nombreux historiens pensent que les guerres ont été
-sous-produit des forces qui ont créé la Renaissance \[3\]. La clé de la
+sous-produit des forces qui ont créé la Renaissance [^3]. La clé de la
 vigueur de l’Europe a peut-être été le fait qu’elle a été divisée en un
 certain nombre de petits États concurrents. Ceux-ci étaient assez
 proches pour que les idées puissent voyager de l’une à l’autre, mais

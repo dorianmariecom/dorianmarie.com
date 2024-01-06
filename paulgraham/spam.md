@@ -11,7 +11,7 @@ spammeurs est leur message. Ils peuvent contourner toute autre barrière
 que vous mettez en place. Ils l’ont fait jusqu’à présent, du moins. Mais
 ils doivent transmettre leur message, quel qu’il soit. Si nous pouvons
 écrire un logiciel qui reconnaît leurs messages, il n’y a aucun moyen
-qu’ils puissent contourner cela \[1\].
+qu’ils puissent contourner cela [^1].
 
 Pour le destinataire, le spam est facilement reconnaissable. Si vous
 embauchiez quelqu’un pour lire votre courrier et se débarassser du spam,
@@ -327,7 +327,7 @@ pour un envoi de catalogue), le coût, pour eux, n’est pratiquement rien.
 Le coût est énorme pour les destinataires, environ 5 semaines-homme pour
 chaque million de destinataires qui passent une seconde à supprimer le
 spam, mais le spammeur n’a pas à payer cela. L’envoi de spam coûte
-quelque chose au spammer cependant \[2\]. Ainsi, plus nous pouvons
+quelque chose au spammer cependant [^2]. Ainsi, plus nous pouvons
 obtenir le taux de réponse - que ce soit en filtrant ou en utilisant des
 filtres pour forcer les spammeurs à diluer leurs présentations - moins
 d’entreprises trouveront qu’il vaut la peine d’envoyer du spam.

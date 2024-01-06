@@ -20,7 +20,7 @@ fonctionnait via le Web, au lieu de s’exécuter sur votre ordinateur de
 bureau.
 
 Une autre chose inhabituelle à propos de ce logiciel était qu’il était
-écrit principalement dans le langage de programmation appelé Lisp \[1\].
+écrit principalement dans le langage de programmation appelé Lisp [^1].
 C’était l’une des premières grandes applications d’utilisateur final à
 être écrites en Lisp, qui jusque-là avait été utilisée principalement
 dans les universités et les laboratoires de recherche.
@@ -208,7 +208,7 @@ notre site web, tout ce que vous trouverez, ce sont les titres de deux
 livres dans ma biographie. Ce n’était pas un hasard. Une start-up
 devrait donner à ses concurrents le moins d’informations possible. S’ils
 ne savaient pas quelle langue notre logiciel était écrit, ou s’en
-fichaient, je voulais le laisser comme ça \[2\].
+fichaient, je voulais le laisser comme ça [^2].
 
 Les personnes qui comprenaient le mieux notre technologie étaient les
 clients. Ils ne se souciaient pas non plus de la langue dans laquelle
@@ -255,7 +255,7 @@ Tout le monde sait que c’est une erreur d’écrire tout votre programme à
 la main en langage machine. Ce qui est moins souvent compris, c’est
 qu’il y a un principe plus général ici : si vous avez le choix entre
 plusieurs langues, c’est, toutes choses étant égales par ailleurs, une
-erreur de programmer dans autre chose que la plus puissante \[3\].
+erreur de programmer dans autre chose que la plus puissante [^3].
 
 Il y a de nombreuses exceptions à cette règle. Si vous écrivez un
 programme qui doit travailler en étroite collaboration avec un programme
@@ -279,7 +279,7 @@ sont souvent tous traités comme équivalents. Ils ne le sont pas.
 Techniquement, le terme « langage de haut niveau » ne signifie rien de
 très précis. Il n’y a pas de ligne de démarcation avec les langages
 machine d’un côté et tous les langages de haut niveau de l’autre. Les
-langages s’inscrivent le long d’un continuum d’abstraction \[4\], des
+langages s’inscrivent le long d’un continuum d’abstraction [^4], des
 langages les plus puissants jusqu’aux langages des machines, qui varient
 eux-mêmes en pouvoir.
 
@@ -350,7 +350,7 @@ les uns par rapport aux autres est un sujet sensible. Ce que je vais
 dire, c’est que je pense que Lisp est au sommet. Et pour étayer cette
 affirmation, je vais vous parler de l’une des choses qui me manquent
 lorsque je regarde les quatre autres langages. Comment pouvez-vous faire
-quoi que ce soit en eux, je pense, sans macros ? \[5\]
+quoi que ce soit en eux, je pense, sans macros ? [^5]
 
 De nombreux langages ont ce qu’on appelle une macro. Mais les macros
 Lisp sont uniques. Et croyez-le ou non, ce qu’ils font est réappuyé
@@ -436,7 +436,7 @@ d’instructions RISC.
 Habituellement, la technologie change rapidement. Mais les langages de
 programmation sont différents : les langages de programmation ne sont
 pas seulement la technologie, mais ce à quoi les programmeurs pensent.
-Ils sont à moitié technologiques et à moitié religieux \[6\]. Et donc le
+Ils sont à moitié technologiques et à moitié religieux [^6]. Et donc le
 langage médian, c’est-à-dire quel que soit le langage utilisé par le
 programmeur médian, se déplace aussi lentement qu’un iceberg. La
 collecte des ordures, introduite par Lisp vers 1960, est maintenant
