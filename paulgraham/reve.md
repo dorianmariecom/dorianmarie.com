@@ -673,3 +673,34 @@ pouvez tout changer à son sujet, y compris sa syntaxe, et tout ce que
 vous écrivez a, autant que possible, le même statut que ce qui est
 prédéfini. Le langage de rêve n’est pas seulement l’open source, mais le
 design ouvert.
+
+[^1]: Un programme hello-world est un programme qui ne fait rien d'autre que d'imprimer les mots « Bonjour, monde ! » En Java, vous écrirez :
+
+    ```java
+    public class Hello {
+      public static void main(String[] args) {
+        System.out.println("Hello, world!");
+      }
+    }
+    ```
+
+    Quelqu'un qui n'a jamais écrit de programme regarde probablement cela et se demande, pourquoi avez-vous besoin d'en dire autant pour que l'ordinateur imprime un message ? Curieusement, la réaction des programmeurs expérimentés est identique.
+
+[^2]: Dans When the Air Hits Your Brain, le neurochirurgien Frank Vertosick raconte une conversation dans laquelle son résident en chef, Gary, parle de la différence entre les chirurgiens et les internes (« puces ») :
+
+    > Gary et moi avons commandé une grande pizza et avons trouvé un stand ouvert. Le chef a allumé une cigarette. « Regardez ces putains de puces, bavardant à propos d'une maladie qu'ils verront une fois dans leur vie. C'est le problème avec les puces, elles n'aiment que les choses bizarres. Ils détestent leurs caisses de pain et de beurre. C'est la différence entre nous et les putains de puces. Vous voyez, nous aimons les grandes hernies discales lombaires juteuses, mais ils détestent l'hypertension. . . .
+
+    Il est difficile de penser qu'une hernie discale lombaire est juteuse (sauf littéralement). Mais je pense que je sais ce qu'ils veulent dire. J'ai souvent eu un insecte juteux à traquer. Certains qui ne sont pas programmeurs auraient du mal à imaginer qu'il pourrait y avoir du plaisir dans un bug. C'est sûrement mieux si tout fonctionne. Et pourtant, il y a indéniablement une sombre satisfaction à traquer certaines sortes de bugs.
+
+[^3]:
+
+Fritz Kunze est le président du principal fournisseur commercial de Lisp. Sa biographie se lit comme suit :
+
+> Fritz Kunze, président, a cofinancé Franz Inc. en 1984. Franz est le leader mondial
+> leader du marché en matière de fourniture de systèmes CLOS et de systèmes de stockage persistant CLOS. Dans
+> ajout Franz a défini et popularisé la catégorie Dynamic Object Oriented
+> Langages de programmation. Avant Franz, Fritz était étudiant diplômé en
+> mathématiques et informatique à l'Université de Californie à Berkeley.
+> Il est titulaire d'un M.S. en mathématiques de l'Université de Californie à Berkeley
+
+Frits croit évidemment qu'il fera mieux en disant que Frans propose quelque chose dont les gens n'ont jamais entendu parler qu'en disant qu'ils proposent Lisp. Il a probablement raison, en ce qui concerne le marché cible de Franz.

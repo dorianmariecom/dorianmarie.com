@@ -565,3 +565,5 @@ les rayures peintes sur la route, mais en visant un moment donné dans la
 distance. Même si tout ce dont vous vous souciez, c’est de ce qui se
 passe dans les dix prochains pieds, c’est la bonne réponse. Je pense que
 nous devrions faire la même chose avec les langages de programmation
+
+[^1]: Je crois que Lisp Machine Lisp a été le premier langage à incarner le principe selon lequel les déclarations (à l'exception de celles des variables dynamiques) n'étaient que des conseils d'optimisation et ne changeraient pas la signification d'un programme correct. Common Lisp semble avoir été le premier à l'indiquer explicitement.
