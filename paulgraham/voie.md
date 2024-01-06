@@ -88,7 +88,7 @@ soit, ce sera de l’électronique grand public : quelque chose qui coûte
 environ 200 \$, et que les gens choisissent principalement en fonction
 de l’apparence de l’affaire. Vous paierez plus pour les services
 Internet que pour le matériel, tout comme vous le faites maintenant avec
-les téléphones \[1\].
+les téléphones [^1].
 
 Il faudra environ un dixième de seconde pour un clic pour accéder au
 serveur et revenir, de sorte que les utilisateurs de logiciels fortement
@@ -198,7 +198,7 @@ Enfin, les logiciels basés sur le Web devraient être moins vulnérables
 aux virus. Si le client n’exécute rien d’autre qu’un navigateur, il y a
 moins de chances d’exécuter des virus et aucune donnée localement à
 endommager. Et un programme qui a attaqué les serveurs eux-mêmes devrait
-les trouver bien défendus \[2\].
+les trouver bien défendus [^2].
 
 Pour les utilisateurs, les logiciels basés sur le web seront moins
 stressants. Je pense que chez l’utilisateur moyen de Windows, vous
@@ -274,7 +274,7 @@ capital-risque) ont dû être considérés comme les langages pour le
 développement de logiciels « sérieux ». Mais ce n’était qu’un artefact
 de la façon dont les logiciels de bureau devaient être livrés. Pour les
 logiciels basés sur serveur, vous pouvez utiliser n’importe quel langage
-que vous voulez \[3\]. Aujourd’hui, beaucoup des meilleurs pirates
+que vous voulez [^3]. Aujourd’hui, beaucoup des meilleurs pirates
 utilisent des langages loin de C et C++ : Perl, Python et même Lisp.
 
 Avec les logiciels sur serveur, personne ne peut vous dire quelle langue
@@ -431,14 +431,14 @@ inconsciemment. Corriger un bug dans quelque chose que vous avez écrit
 il y a six mois (le cas moyen si vous publiez une fois par an) est
 beaucoup plus de travail. Et comme vous ne comprenez pas non plus le
 code, vous êtes plus susceptible de le corriger d’une manière laide, ou
-même d’introduire plus de bugs \[4\].
+même d’introduire plus de bugs [^4].
 
 Lorsque vous attrapez des bugs tôt, vous obtenez également moins de bugs
 composés. Les bugs composés sont deux bugs séparés qui interagissent :
 vous descendez en bas, et lorsque vous atteignez la main courante, elle
 se détache dans votre main. Dans les logiciels, ce type de bug est le
 plus difficile à trouver, et a également tendance à avoir les pires
-conséquences \[5\]. L’approche traditionnelle “tout casser, puis filtrer
+conséquences [^5]. L’approche traditionnelle “tout casser, puis filtrer
 les bugs” donne intrinsèquement beaucoup de bugs composés. Et les
 logiciels publiés dans une série de petits changements ont
 intrinsèquement tendance à ne pas le faire. Les sols sont constamment
@@ -529,7 +529,7 @@ avons réalisé qu’il s’agissait effectivement d’une assurance qualité et
 dans une certaine mesure, d’un certain marketing. En plus d’attraper des
 bugs, ils étaient les gardiens de la connaissance de choses plus vagues
 et de type bug, comme des fonctionnalités qui confondaient les
-utilisateurs \[6\]. Ils constituaient également une sorte de groupe de
+utilisateurs [^6]. Ils constituaient également une sorte de groupe de
 discussion par procuration ; nous pouvions leur demander laquelle de
 deux nouvelles fonctionnalités les utilisateurs souhaitaient le plus, et
 ils avaient toujours raison.
@@ -604,7 +604,7 @@ les versions, les ports, et ainsi de suite. Avec les logiciels basés sur
 le Web, tout ce dont vous avez besoin (au plus) sont les 13 personnes,
 car il n’y a pas de versions, de ports, et ainsi de suite.
 
-Viaweb a été écrit par seulement trois personnes \[7\]. J’étais toujours
+Viaweb a été écrit par seulement trois personnes [^7]. J’étais toujours
 sous pression pour embaucher plus, parce que nous voulions nous faire
 acheter, et nous savions que les acheteurs auraient du mal à payer un
 prix élevé pour une entreprise avec seulement trois programmeurs.
@@ -616,7 +616,7 @@ cela vous permet d’économiser plus que de l’argent. Comme Fred Brooks
 l’a souligné dans The Mythical Man-Month, l’ajout de personnes à un
 projet a tendance à le ralentir. Le nombre de connexions possibles entre
 les développeurs augmente de façon exponentielle avec la taille du
-groupe \[8\]. Plus le groupe est grand, plus ils passeront de temps dans
+groupe [^8]. Plus le groupe est grand, plus ils passeront de temps dans
 des réunions à négocier la façon dont leur logiciel fonctionnera
 ensemble, et plus ils obtiendront de bugs à partir d’interactions
 imprévues. Heureusement, ce processus fonctionne également à l’envers :
@@ -772,7 +772,7 @@ copie plus tard, lorsqu’il obtiendra son diplôme d’études secondaires.
 
 Lorsqu’elles le peuvent, les entreprises aiment faire ce qu’on appelle
 la discrimination des prix, ce qui signifie facturer à chaque client
-autant qu’elles le peuvent \[9\]. Les logiciels sont particulièrement
+autant qu’elles le peuvent [^9]. Les logiciels sont particulièrement
 adaptés à la discrimination des prix, car le coût marginal est proche de
 zéro. C’est pourquoi certains logiciels coûtent plus cher pour
 fonctionner sur Suns que sur les boîtiers Intel : une entreprise qui
@@ -780,7 +780,7 @@ utilise Suns n’est pas intéressée à économiser de l’argent et peut être
 facturée plus cher en toute sécurité. Le bidouillage est en fait le plus
 bas niveau de discrimination par les prix. Je pense que les éditeurs de
 logiciels comprennent cela et ferment délibérément les yeux sur certains
-types de bidouillage \[10\]. Avec les logiciels basés sur le serveur,
+types de bidouillage [^10]. Avec les logiciels basés sur le serveur,
 elles devront trouver une autre solution.
 
 Les logiciels basés sur le Web se vendent bien, surtout par rapport aux
@@ -867,7 +867,7 @@ pas directement exposés à la pression concurrentielle. Un vendeur doit
 traiter avec des clients, et un développeur doit traiter avec les
 logiciels des concurrents, mais un administrateur système, comme un
 vieux célibataire, a peu de forces externes pour le maintenir en ligne
-\[11\]. Chez Viaweb, nous avions beaucoup de forces externes pour nous
+[^11]. Chez Viaweb, nous avions beaucoup de forces externes pour nous
 maintenir en ligne. Les gens qui nous appelaient étaient des clients,
 pas seulement des collègues. Si un serveur était coincé, nous sautions.
 Le simple fait d’y penser me donne une poussée d’adrénaline, des années
@@ -961,7 +961,7 @@ correspondance.
 L’application qui a poussé les ordinateurs de bureau dans le grand
 public était VisiCalc, la première feuille de calcul. Il a été écrit par
 deux gars travaillant dans un grenier, et pourtant ont fait des choses
-qu’aucun logiciel mainframe ne pouvait faire \[12\]. VisiCalc était un
+qu’aucun logiciel mainframe ne pouvait faire [^12]. VisiCalc était un
 tel progrès, en son temps, que les gens ont acheté des Apple IIs juste
 pour l’exécuter. Et c’était le début d’une tendance : les ordinateurs de
 bureau ont gagné parce que les startups ont écrit des logiciels pour
@@ -979,7 +979,7 @@ mêmes processeurs Intel que vous avez dans votre ordinateur de bureau.
 Et une fois que vous avez écrit le logiciel, tout ce dont vous avez
 besoin pour le vendre est un site web. Presque tous nos utilisateurs
 sont venus directement sur notre site par le bouche à oreille et des
-références dans la presse \[13\].
+références dans la presse [^13].
 
 Viaweb était une start-up larvaire typique. Nous étions terrifiés à
 l’époque de créer une entreprise, et pendant les premiers mois, nous
@@ -1005,9 +1005,9 @@ s’appuieront, elle doit en faire quelque chose que les pirates eux-mêmes
 voudront utiliser. Cela signifie qu’il doit être peu coûteux et bien
 conçu. Le Mac était populaire auprès des pirates informatiques lorsqu’il
 est sorti pour la première fois, et beaucoup d’entre eux ont écrit un
-logiciel pour lui \[14\]. Vous le voyez moins avec Windows, parce que
-les hackers ne l’utilisent pas. Le genre de personnes qui sont douées
-pour écrire des logiciels ont tendance à utiliser Linux ou FreeBSD
+logiciel pour lui [^14]. Vous le voyez moins avec Windows, parce que les
+hackers ne l’utilisent pas. Le genre de personnes qui sont douées pour
+écrire des logiciels ont tendance à utiliser Linux ou FreeBSD
 maintenant.
 
 Je ne pense pas que nous aurions commencé une start-up pour écrire des
@@ -1052,7 +1052,7 @@ Il y aura trop de différents types de clients pour qu’ils les contrôlent
 tous. Et si les applications de Microsoft ne fonctionnent qu’avec
 certains clients, les concurrents seront en mesure de les surpasser en
 proposant des applications qui fonctionnent à partir de n’importe quel
-client \[15\].
+client [^15].
 
 Dans un monde d’applications basées sur le Web, il n’y a pas de place
 automatique pour Microsoft. Ils peuvent réussir à se faire une place,
@@ -1148,7 +1148,7 @@ administrateurs système. Les logiciels basés sur le Web obligent les
 programmeurs à le faire. Il y a moins de stress au total, mais plus pour
 les programmeurs. Ce n’est pas nécessairement une mauvaise nouvelle. Si
 vous êtes une start-up en concurrence avec une grande entreprise, c’est
-une bonne nouvelle \[16\]. Les applications Web offrent un moyen simple
+une bonne nouvelle [^16]. Les applications Web offrent un moyen simple
 de surpasser vos concurrents. Aucune start-up n’en demande plus.
 
 **Juste assez bon**
@@ -1206,7 +1206,7 @@ fonctionnera partout où le Web fonctionne. C’est un grand avantage déjà
 prêt, et l’avantage augmentera à mesure que de nouveaux appareils web
 prolifèrent. Les utilisateurs vous aimeront parce que votre logiciel
 fonctionne tout simplement, et votre vie sera plus facile parce que vous
-n’aurez pas à le modifier pour chaque nouveau client \[17\].
+n’aurez pas à le modifier pour chaque nouveau client [^17].
 
 J’ai l’impression d’avoir observé l’évolution du Web aussi étroitement
 que n’importe qui, et je ne peux pas prédire ce qui va se passer avec
@@ -1322,3 +1322,154 @@ peur de vous. Les cadres intermédiaires complaisants ne le sont
 peut-être pas, mais Bill Gates l’est, parce qu’il était vous une fois,
 en 1975, la dernière fois qu’une nouvelle façon de livrer des logiciels
 est apparue.
+
+[^1]: Réalisant que beaucoup d’argent est dans les services, les
+    entreprises qui construisent des clients légers ont généralement
+    essayé de combiner le matériel avec un service en ligne. Cette
+    approche n’a pas bien fonctionné, en partie parce que vous avez
+    besoin de deux types d’entreprises différentes pour construire des
+    produits électroniques grand public et gérer un service en ligne, et
+    en partie parce que les utilisateurs détestent l’idée. Donner la
+    poignée et faire de l’argent sur les lames peut fonctionner pour
+    Gillette, mais un rasoir est un engagement moins important qu’un
+    terminal web.<br> <br> Les fabricants de téléphones portables sont
+    satisfaits de vendre du matériel sans essayer de plafonner également
+    les revenus du service. Cela devrait probablement aussi être le
+    modèle pour les clients Internet. Si quelqu’un venait de vendre une
+    jolie petite boîte avec un navigateur Web que vous pourriez utiliser
+    pour vous connecter via n’importe quel FAI, chaque technophobe du
+    parc en achèterait une.
+
+[^2]: La sécurité dépend toujours plus de la volonté de ne pas se
+    tromper que de n’importe quelle décision de conception mais la
+    nature des logiciels basés sur des serveurs incitera les
+    développeurs à accorder plus d’attention au fait de ne pas se
+    tromper. La compromission d’un serveur pourrait causer de tels
+    dommages que les ASP (qui veulent rester en activité) sont
+    susceptibles de faire attention à la sécurité.
+
+[^3]: En 1995, lorsque nous avons lancé Viaweb, les applets Java étaient
+    censés être la technologie que tout le monde allait utiliser pour
+    développer des applications basées sur le serveur. Les applets nous
+    semblaient une idée à l’ancienne. Télécharger des programmes à
+    exécuter sur le client ? Plus simple, il suffit d’aller jusqu’au
+    bout et d’exécuter les programmes sur le serveur. Nous avons perdu
+    peu de temps sur les applets, mais d’innombrables autres startups
+    ont dû être attirées dans cette fosse de goudron. Peu semblent s’en
+    être échappés vivants.
+
+[^4]: Ce point est dû à Trevor Blackwell, qui ajoute : « Le coût des
+    logiciels d’écriture augmente plus que linéairement avec sa taille.
+    Peut-être est-ce principalement dû à la correction d’anciens bugs,
+    et le coût peut être plus linéaire si tous les bugs sont trouvés
+    rapidement. »
+
+[^5]: Le type de bugs le plus difficile à trouver peut être une variante
+    du bogue composé où un bogue compense un autre. Lorsque vous
+    corrigez un bug, l’autre devient visible. Mais il semblera que la
+    solution soit en faute, puisque c’est la dernière chose que vous
+    avez changée.
+
+[^6]: Au sein de Viaweb, nous avons déjà eu un concours pour décrire la
+    pire chose à propos de notre logiciel. Deux personnes du support
+    client sont à égalité pour le premier prix avec des entrées dont je
+    frissonne encore de me rappeler. Nous avons résolu les deux
+    problèmes immédiatement.
+
+[^7]: Robert Morris a écrit le système de commande, que les acheteurs
+    utilisaient pour placer des commandes. Trevor Blackwell a écrit le
+    générateur d’images et le gestionnaire, que les commerçants
+    utilisaient pour récupérer les commandes, afficher les statistiques,
+    configurer les noms de domaine, etc. J’ai écrit à l’éditeur, que les
+    commerçants utilisaient pour construire leurs sites. Le système de
+    commande et le générateur d’images ont été écrits en C et C++, le
+    gestionnaire principalement en Perl et l’éditeur en Common Lisp.
+
+[^8]: J’utilise « exponentiellement » au sens familier ici.
+    Correctement, il devrait être « polynomialement ».
+
+[^9]: La discrimination par les prix est si répandue que j’ai été
+    surpris de constater qu’elle a été interdite aux États-Unis par la
+    loi Robinson-Patman de 1936. Cette loi ne semble pas être
+    vigoureusement appliquée.
+
+[^10]: Dans No Logo, Naomi Klein dit que les marques de vêtements
+    favorisées par les « jeunes urbains » n’essaient pas trop d’empêcher
+    le vol à l’étalage parce que dans leur marché cible, les voleurs à
+    l’étalage sont également les leaders de la mode.
+
+[^11]: Les entreprises se demandent souvent ce qu’elles doivent
+    externaliser et ce qu’elles ne doivent pas faire. Une réponse
+    possible : externaliser tout travail qui n’est pas directement
+    exposé à la pression concurrentielle, car l’externalisation
+    l’exposera ainsi à la pression concurrentielle. (Je veux dire «
+    externaliser » dans le sens d’embaucher une autre entreprise pour le
+    faire, et non dans le sens plus spécifique de l’embauche d’une
+    entreprise étrangère.)
+
+[^12]: Les deux gars étaient Dan Bricklin et Bob Frankston. Dan a écrit
+    un prototype en Basic en quelques jours, puis au cours de l’année
+    suivante, ils ont travaillé ensemble (la plupart du temps la nuit)
+    pour faire une version plus puissante écrite en langage machine
+    6502. Dan était à la Harvard Business School à l’époque et Bob avait
+    nominalement un travail de jour pour écrire un logiciel. « Il n’y
+    avait pas de grand risque à faire des affaires », m’a dit Bob. «
+    S’il a échoué, il a échoué. Ce n’est pas grand-chose. »
+
+[^13]: Ce n’est pas aussi facile que je le fais paraître. Il a fallu
+    beaucoup de temps pour que le bouche à oreille se mette en marche,
+    et nous n’avons pas eu beaucoup de couverture médiatique jusqu’à ce
+    que nous embauchions Schwartz Communications, probablement la
+    meilleure entreprise de relations publiques de haute technologie de
+    l’entreprise, pour 16 000 \$/mois (plus quelques mandats).
+    Cependant, il était vrai que le seul canal important était notre
+    propre site web.
+
+[^14]: Si le Mac était si génial, pourquoi a-t-il perdu ? Coût, encore
+    une fois. Microsoft s’est concentré sur le secteur des logiciels et
+    a déclenché un essaim de fournisseurs de composants bon marché sur
+    le matériel Apple. Cela n’a pas aidé non plus que les costumes aient
+    pris le relais pendant une période critique. (Et il n’a pas encore
+    perdu. Si Apple devait transformer l’iPod en un téléphone portable
+    avec un navigateur Web, Microsoft aurait de gros ennuis.)
+
+[^15]: Une chose qui aiderait les applications basées sur le Web, et
+    aiderait à l’autre génération de logiciels d’être éclipsée par
+    Microsoft, serait un bon navigateur open source. Un petit navigateur
+    rapide serait une bonne chose en soi, et encouragerait les
+    entreprises à construire de petits appareils Web.<br> <br> Mieux que
+    ce soit, un bon navigateur open source pourrait faire évoluer HTTP
+    et HTML (comme par ex. Perl a). Vous vous souvenez quand chaque
+    version de Netscape ajoutait de nouvelles fonctionnalités au HTML ?
+    Pourquoi cela a-t-il été arrêté ?<br> <br> Cela aiderait grandement
+    les applications Web à faire la distinction entre la sélection d’un
+    lien et son suivi ; tout ce dont vous auriez besoin pour le faire
+    serait une amélioration triviale de HTTP, pour permettre plusieurs
+    URL dans une demande. Les menus en cascade seraient également bons.
+    Si vous voulez changer le monde, écrivez une nouvelle mosaïque. Vous
+    pensez qu’il est trop tard ? En 1998, beaucoup de gens pensaient
+    qu’il était trop tard pour lancer un nouveau moteur de recherche,
+    mais Google leur a prouvé qu’ils avaient tort. Il y a toujours de la
+    place pour quelque chose de nouveau si c’est beaucoup mieux.
+
+[^16]: Trevor Blackwell, qui en sait probablement plus à ce sujet par
+    expérience personnelle que quiconque, écrit :<br> <br> « J’irais
+    plus loin en disant que parce que les logiciels sur serveur sont si
+    durs pour les programmeurs, cela provoque un changement économique
+    fondamental par rapport aux grandes grandes grandes grandes. Cela
+    nécessite le genre d’intensité et de dévouement de la part des
+    programmeurs qu’ils ne seront prêts à fournir que lorsqu’il s’agit
+    de leur propre entreprise. Les entreprises de logiciels peuvent
+    embaucher des personnes qualifiées pour travailler dans un
+    environnement pas trop exigeant, et peuvent embaucher des personnes
+    non qualifiées pour supporter des difficultés, mais elles ne peuvent
+    pas embaucher des personnes hautement qualifiées pour se casser le
+    cul. Étant donné que le capital n’est plus nécessaire, les grandes
+    sociétés n’ont pas grand-chose à apporter à la table. »
+
+[^17]: Je n’utiliserais même pas Javascript, si j’étais vous ; Viaweb ne
+    l’a pas fait. La plupart du Javascript que je vois sur le Web n’est
+    pas nécessaire, et une grande partie se casse. Et quand vous
+    commencez à pouvoir parcourir des pages Web réelles sur votre
+    téléphone portable ou votre PDA (ou votre grille-pain), qui sait
+    s’ils le tiendront même en charge ?
