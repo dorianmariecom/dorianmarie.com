@@ -692,15 +692,12 @@ design ouvert.
 
     Il est difficile de penser qu'une hernie discale lombaire est juteuse (sauf littéralement). Mais je pense que je sais ce qu'ils veulent dire. J'ai souvent eu un insecte juteux à traquer. Certains qui ne sont pas programmeurs auraient du mal à imaginer qu'il pourrait y avoir du plaisir dans un bug. C'est sûrement mieux si tout fonctionne. Et pourtant, il y a indéniablement une sombre satisfaction à traquer certaines sortes de bugs.
 
-[^3]:
+[^3]: Fritz Kunze est le président du principal fournisseur commercial de Lisp. Sa biographie se lit comme suit :
 
-Fritz Kunze est le président du principal fournisseur commercial de Lisp. Sa biographie se lit comme suit :
+    > Fritz Kunze, président, a cofinancé Franz Inc. en 1984. Franz est le leader mondial
+    > en matière de fourniture de systèmes CLOS et de systèmes de stockage persistant CLOS. De plus Franz a défini et popularisé la catégorie
+    > Langages de programmation Dynamiques Orientés Objets. Avant Franz, Fritz était étudiant diplômé en
+    > mathématiques et informatique à l'Université de Californie à Berkeley.
+    > Il est titulaire d'un M.S. en mathématiques de l'Université de Californie à Berkeley
 
-> Fritz Kunze, président, a cofinancé Franz Inc. en 1984. Franz est le leader mondial
-> leader du marché en matière de fourniture de systèmes CLOS et de systèmes de stockage persistant CLOS. Dans
-> ajout Franz a défini et popularisé la catégorie Dynamic Object Oriented
-> Langages de programmation. Avant Franz, Fritz était étudiant diplômé en
-> mathématiques et informatique à l'Université de Californie à Berkeley.
-> Il est titulaire d'un M.S. en mathématiques de l'Université de Californie à Berkeley
-
-Frits croit évidemment qu'il fera mieux en disant que Frans propose quelque chose dont les gens n'ont jamais entendu parler qu'en disant qu'ils proposent Lisp. Il a probablement raison, en ce qui concerne le marché cible de Franz.
+    Fritz croit évidemment qu'il fera mieux en disant que Franz propose quelque chose dont les gens n'ont jamais entendu parler qu'en disant qu'ils proposent Lisp. Il a probablement raison, en ce qui concerne le marché cible de Franz.
