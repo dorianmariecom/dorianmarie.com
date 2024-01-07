@@ -3,4 +3,4 @@ title: dorianmarie.com
 layout: default
 ---
 
-## [Paul Graham](/paulgraham)
+<script>window.location = "/paulgraham"</script>
