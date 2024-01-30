@@ -1323,7 +1323,8 @@ peut-être pas, mais Bill Gates l’est, parce qu’il était vous une fois,
 en 1975, la dernière fois qu’une nouvelle façon de livrer des logiciels
 est apparue.
 
-[^1]: Réalisant que beaucoup d’argent est dans les services, les
+[^1]:
+    Réalisant que beaucoup d’argent est dans les services, les
     entreprises qui construisent des clients légers ont généralement
     essayé de combiner le matériel avec un service en ligne. Cette
     approche n’a pas bien fonctionné, en partie parce que vous avez
@@ -1340,7 +1341,8 @@ est apparue.
     pour vous connecter via n’importe quel FAI, chaque technophobe du
     parc en achèterait une.
 
-[^2]: La sécurité dépend toujours plus de la volonté de ne pas se
+[^2]:
+    La sécurité dépend toujours plus de la volonté de ne pas se
     tromper que de n’importe quelle décision de conception mais la
     nature des logiciels basés sur des serveurs incitera les
     développeurs à accorder plus d’attention au fait de ne pas se
@@ -1348,7 +1350,8 @@ est apparue.
     dommages que les ASP (qui veulent rester en activité) sont
     susceptibles de faire attention à la sécurité.
 
-[^3]: En 1995, lorsque nous avons lancé Viaweb, les applets Java étaient
+[^3]:
+    En 1995, lorsque nous avons lancé Viaweb, les applets Java étaient
     censés être la technologie que tout le monde allait utiliser pour
     développer des applications basées sur le serveur. Les applets nous
     semblaient une idée à l’ancienne. Télécharger des programmes à
@@ -1358,25 +1361,29 @@ est apparue.
     ont dû être attirées dans cette fosse de goudron. Peu semblent s’en
     être échappés vivants.
 
-[^4]: Ce point est dû à Trevor Blackwell, qui ajoute : « Le coût des
+[^4]:
+    Ce point est dû à Trevor Blackwell, qui ajoute : « Le coût des
     logiciels d’écriture augmente plus que linéairement avec sa taille.
     Peut-être est-ce principalement dû à la correction d’anciens bugs,
     et le coût peut être plus linéaire si tous les bugs sont trouvés
     rapidement. »
 
-[^5]: Le type de bugs le plus difficile à trouver peut être une variante
+[^5]:
+    Le type de bugs le plus difficile à trouver peut être une variante
     du bogue composé où un bogue compense un autre. Lorsque vous
     corrigez un bug, l’autre devient visible. Mais il semblera que la
     solution soit en faute, puisque c’est la dernière chose que vous
     avez changée.
 
-[^6]: Au sein de Viaweb, nous avons déjà eu un concours pour décrire la
+[^6]:
+    Au sein de Viaweb, nous avons déjà eu un concours pour décrire la
     pire chose à propos de notre logiciel. Deux personnes du support
     client sont à égalité pour le premier prix avec des entrées dont je
     frissonne encore de me rappeler. Nous avons résolu les deux
     problèmes immédiatement.
 
-[^7]: Robert Morris a écrit le système de commande, que les acheteurs
+[^7]:
+    Robert Morris a écrit le système de commande, que les acheteurs
     utilisaient pour placer des commandes. Trevor Blackwell a écrit le
     générateur d’images et le gestionnaire, que les commerçants
     utilisaient pour récupérer les commandes, afficher les statistiques,
@@ -1385,20 +1392,24 @@ est apparue.
     commande et le générateur d’images ont été écrits en C et C++, le
     gestionnaire principalement en Perl et l’éditeur en Common Lisp.
 
-[^8]: J’utilise « exponentiellement » au sens familier ici.
+[^8]:
+    J’utilise « exponentiellement » au sens familier ici.
     Correctement, il devrait être « polynomialement ».
 
-[^9]: La discrimination par les prix est si répandue que j’ai été
+[^9]:
+    La discrimination par les prix est si répandue que j’ai été
     surpris de constater qu’elle a été interdite aux États-Unis par la
     loi Robinson-Patman de 1936. Cette loi ne semble pas être
     vigoureusement appliquée.
 
-[^10]: Dans No Logo, Naomi Klein dit que les marques de vêtements
+[^10]:
+    Dans No Logo, Naomi Klein dit que les marques de vêtements
     favorisées par les « jeunes urbains » n’essaient pas trop d’empêcher
     le vol à l’étalage parce que dans leur marché cible, les voleurs à
     l’étalage sont également les leaders de la mode.
 
-[^11]: Les entreprises se demandent souvent ce qu’elles doivent
+[^11]:
+    Les entreprises se demandent souvent ce qu’elles doivent
     externaliser et ce qu’elles ne doivent pas faire. Une réponse
     possible : externaliser tout travail qui n’est pas directement
     exposé à la pression concurrentielle, car l’externalisation
@@ -1407,16 +1418,17 @@ est apparue.
     faire, et non dans le sens plus spécifique de l’embauche d’une
     entreprise étrangère.)
 
-[^12]: Les deux gars étaient Dan Bricklin et Bob Frankston. Dan a écrit
+[^12]:
+    Les deux gars étaient Dan Bricklin et Bob Frankston. Dan a écrit
     un prototype en Basic en quelques jours, puis au cours de l’année
     suivante, ils ont travaillé ensemble (la plupart du temps la nuit)
-    pour faire une version plus puissante écrite en langage machine
-    6502. Dan était à la Harvard Business School à l’époque et Bob avait
+    pour faire une version plus puissante écrite en langage machine 6502. Dan était à la Harvard Business School à l’époque et Bob avait
     nominalement un travail de jour pour écrire un logiciel. « Il n’y
     avait pas de grand risque à faire des affaires », m’a dit Bob. «
     S’il a échoué, il a échoué. Ce n’est pas grand-chose. »
 
-[^13]: Ce n’est pas aussi facile que je le fais paraître. Il a fallu
+[^13]:
+    Ce n’est pas aussi facile que je le fais paraître. Il a fallu
     beaucoup de temps pour que le bouche à oreille se mette en marche,
     et nous n’avons pas eu beaucoup de couverture médiatique jusqu’à ce
     que nous embauchions Schwartz Communications, probablement la
@@ -1425,7 +1437,8 @@ est apparue.
     Cependant, il était vrai que le seul canal important était notre
     propre site web.
 
-[^14]: Si le Mac était si génial, pourquoi a-t-il perdu ? Coût, encore
+[^14]:
+    Si le Mac était si génial, pourquoi a-t-il perdu ? Coût, encore
     une fois. Microsoft s’est concentré sur le secteur des logiciels et
     a déclenché un essaim de fournisseurs de composants bon marché sur
     le matériel Apple. Cela n’a pas aidé non plus que les costumes aient
@@ -1433,7 +1446,8 @@ est apparue.
     perdu. Si Apple devait transformer l’iPod en un téléphone portable
     avec un navigateur Web, Microsoft aurait de gros ennuis.)
 
-[^15]: Une chose qui aiderait les applications basées sur le Web, et
+[^15]:
+    Une chose qui aiderait les applications basées sur le Web, et
     aiderait à l’autre génération de logiciels d’être éclipsée par
     Microsoft, serait un bon navigateur open source. Un petit navigateur
     rapide serait une bonne chose en soi, et encouragerait les
@@ -1452,7 +1466,8 @@ est apparue.
     mais Google leur a prouvé qu’ils avaient tort. Il y a toujours de la
     place pour quelque chose de nouveau si c’est beaucoup mieux.
 
-[^16]: Trevor Blackwell, qui en sait probablement plus à ce sujet par
+[^16]:
+    Trevor Blackwell, qui en sait probablement plus à ce sujet par
     expérience personnelle que quiconque, écrit :<br> <br> « J’irais
     plus loin en disant que parce que les logiciels sur serveur sont si
     durs pour les programmeurs, cela provoque un changement économique
@@ -1467,7 +1482,8 @@ est apparue.
     cul. Étant donné que le capital n’est plus nécessaire, les grandes
     sociétés n’ont pas grand-chose à apporter à la table. »
 
-[^17]: Je n’utiliserais même pas Javascript, si j’étais vous ; Viaweb ne
+[^17]:
+    Je n’utiliserais même pas Javascript, si j’étais vous ; Viaweb ne
     l’a pas fait. La plupart du Javascript que je vois sur le Web n’est
     pas nécessaire, et une grande partie se casse. Et quand vous
     commencez à pouvoir parcourir des pages Web réelles sur votre

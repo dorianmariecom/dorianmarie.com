@@ -65,4 +65,3 @@ redevable à elle et à son mari Julian pour des années de gentillesse.
 Merci enfin à mon père, pour m’avoir enseigné le scepticisme, et à ma
 mère, pour m’avoir enseigné l’imagination. L’avoir comme mère a été
 comme voir le monde en couleur.
-

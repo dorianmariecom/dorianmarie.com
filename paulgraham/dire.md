@@ -673,27 +673,20 @@ poser des questions. C’est la seule défense. Que pouvez-vous dire ? Et
 pourquoi ?
 
 [^1]: L'Inquisition n'a probablement jamais eu l'intention d'exécuter sa menace de torture. Mais c'est parce que Galilée a clairement indiqué qu'il ferait tout ce qu'ils demandaient. S'il avait refusé, ils n'auraient pas simplement reculé. Peu de temps avant qu'ils n'aient brûlé le philosophe Giordano Bruno lorsqu'il s'est montré intransigeant.
-
 [^2]: De nombreuses organisations publient des listes de ce que vous ne pouvez pas dire en leur sein. Malheureusement, ces listes sont généralement à la fois incomplètes, parce qu'il y a des choses si choquantes qu'elles ne s'attendent même pas à ce que quelqu'un les dise, et en même temps si générales qu'elles ne pourraient pas être appliquées littéralement. C'est un code de discours d'université rare qui n'interdirait pas, pris au pied de la lettre, à Shakespeare.
-
 [^3]: Kundel, H.L., C.F. Nodine, et E.A. Krupinski, « Searching for lung nodules: Visual dwell indicates locations of false-positive and false-negative decisions », Investigative Radiology, 24 (1989), 472-478.
-
 [^4]: Le verbe "à différer" est du jargon informatique, mais c'est le seul mot avec exactement le sens que je veux. Voir le glossaire.
-
 [^5]: Il peut sembler à partir de cela que je suis une sorte de relativiste moral. Loin de ça. Je pense que le "jugement" est l'une des étiquettes utilisées à notre époque pour supprimer la discussion, et que nos tentatives d'être "sans jugement" sembleront à l'avenir l'une des choses les plus comiques à notre sujet.
-
-[^6]: Cela rend le monde confus pour les enfants, car ce qu'ils voient n'est pas en désaccord avec ce qu'on leur dit. Je n'ai jamais pu comprendre pourquoi, par exemple, les portugais "explorateurs” avaient commencé à se frayer un chemin le long de la côte africaine. En fait, ils étaient à la recherche d'esclaves.<br>
+[^6]:
+    Cela rend le monde confus pour les enfants, car ce qu'ils voient n'est pas en désaccord avec ce qu'on leur dit. Je n'ai jamais pu comprendre pourquoi, par exemple, les portugais "explorateurs” avaient commencé à se frayer un chemin le long de la côte africaine. En fait, ils étaient à la recherche d'esclaves.<br>
     <br>
     De Azurara, Gomes Eannes, Chronicle of the Discovery of Guinea, dans Almeida (ed.), Conquests and Discoveries of Henry the Navigator, George Allen & Unwin, 1936.
 
-
 [^7]: Les enfants apprennent bientôt ces mots de leurs amis, mais ils savent qu'ils ne sont pas censés les utiliser. Donc, pendant un certain temps, vous avez un état de choses comme quelque chose d'une comédie musicale, où les parents utilisent ces mots parmi leurs pairs, mais jamais devant les enfants, et les enfants utilisent les mots parmi leurs pairs, mais jamais devant leurs parents.
-
 [^8]: Le logo de Viaweb était un cercle rouge uni avec un V blanc au milieu. Après l'avoir utilisé pendant un certain temps, je me souviens avoir pensé, vous savez, que c'est un symbole vraiment plein, un cercle rouge. Le rouge est sans doute la couleur la plus basique, et le cercle la forme la plus basique. Ensemble, ils ont eu un tel coup de poing visuel. Pourquoi plus d'entreprises américaines n'ont-elles pas un cercle rouge comme logo ? Ahh, oui...
-
 [^9]: La peur est de loin la plus forte des deux forces. Parfois, quand j'entends quelqu'un utiliser le mot "gyp", je lui dis, avec une expression sérieuse, qu'on ne peut plus utiliser ce mot parce qu'il est considéré comme dénigrant pour les Romani (alias Gypsies). En fait, les dictionnaires ne sont pas d'accord sur son étymologie. Mais la réaction à cette blague est presque toujours une réaction de conformité légèrement terrifiée. Il y a quelque chose dans la mode, dans les vêtements ou les idées, qui enlève la confiance des gens : quand ils apprennent quelque chose de nouveau, ils pensent que c'est quelque chose qu'ils auraient déjà dû savoir.
-
-[^10]: C'est le seul exemple de sujet dans cet essai de quelque chose que vous
+[^10]:
+    C'est le seul exemple de sujet dans cet essai de quelque chose que vous
     ne pouvez pas dire. Il est le principal tabou de la vie universitaire. Au
     sein des universités, c'est un axiome tacite selon lequel tous les domaines
     d'études sont intellectuellement égaux. Il ne fait aucun doute que cet
@@ -708,17 +701,10 @@ pourquoi ?
     Et puis, que faites-vous des universités qui ont des départements comme les arts culinaires ou la gestion du sport ? Si vous acceptez cet axiome, jusqu'où s'étend-il ? Voulez-vous vraiment vous retrouver à défendre la position dont la géométrie différentielle n'est pas plus difficile que la cuisine ?
 
 [^11]: Vraisemblablement, au sein de l'industrie, de telles pensées seraient considérées comme « négatives ». Un autre label, un peu comme « défaitiste ». Peu importe, il faut se demander, sont-ils vrais ou non ? En effet, la mesure d'une organisation saine est probablement le degré auquel les pensées négatives sont autorisées. Dans les endroits où un excellent travail est fait, l'attitude semble généralement critique et sarcastique plutôt que « positive » et « favorable ». Les gens que je connais qui font un excellent travail pensent qu'ils sont nuls, mais que tous les autres le sont plus.
-
 [^12]: Behar, Richard, "The Thriving Cult of Greed and Power", Time, 6 mai 1991.
-
 [^13]: Healy, Patrick, "Summers hits 'anti-Semitic' actions", Boston Globe, 20 Septembre 2002.
-
 [^14]: « Tinkerers’ champion », The Economist, 20 juin 2002.
-
 [^15]: Par là, je veux dire que vous devez devenir un controversialiste professionnel, pas que les opinions de Noam Chomsky = ce que vous ne pouvez pas dire. Si vous disiez réellement les choses que vous ne pouvez pas dire, vous choqueriez les conservateurs et les libéraux de la même manière - tout comme, si vous retourniez à l'Angleterre victorienne dans une machine à remonter le temps, vos idées choqueraient les whigs et les conservateurs de la même manière.
-
 [^16]: Traub,James, « Harvard Radical », New York Times Magazine, 24 août 2003.
-
 [^17]: Miller, Arthur, The Crucible in History and Other Essays,Methuen,2000.
-
 [^18]: Certains évitent les "mauvais" en tant que jugements, et à la place d'utiliser des euphémismes plus neutres comme "négatifs" ou "destructeurs".

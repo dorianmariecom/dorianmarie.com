@@ -251,7 +251,8 @@ Ceux qui sont en mesure d’imposer des règles veulent naturellement
 qu’elles soient respectées. Mais faites attention à ce que vous
 demandez. Vous pourriez l’obtenir.
 
-[^1]: J’ai prévu d’apprendre à choisir des verrous aussi. Mais pas juste
+[^1]:
+    J’ai prévu d’apprendre à choisir des verrous aussi. Mais pas juste
     à l’extérieur de la curiosité intellectuelle. Lorsque j’étais à peu
     près à mi-chemin de l’école supérieure, le corps intelligent mais
     truculent de hackers de premier cycle qui avaient l’habitude
@@ -280,10 +281,12 @@ demandez. Vous pourriez l’obtenir.
     Il s’est avéré que les alarmes avaient été déclenchées par la foudre
     pendant la tempête.
 
-[^2]: Ce n’est pas seulement le contenu des produits qui est de plus en
+[^2]:
+    Ce n’est pas seulement le contenu des produits qui est de plus en
     plus un logiciel. Au fur et à mesure que la fabrication devient de
     plus en plus automatisée, les conceptions deviennent également des
     logiciels.
 
-[^3]: Je serais heureux de donner mon nom pour cette courbe. Le fait de
+[^3]:
+    Je serais heureux de donner mon nom pour cette courbe. Le fait de
     donner un nom à une idée sera mieux acceptée.

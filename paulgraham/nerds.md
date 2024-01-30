@@ -687,10 +687,12 @@ en fait pas insolubles après tout. Les adolescents ne sont pas
 intrinsèquement des monstres malheureux. Cela devrait être une nouvelle
 encourageante pour les enfants et les adultes.
 
-[^1]: Alberti, Leon Battista, The Use and Abuse of Books, traduit par
+[^1]:
+    Alberti, Leon Battista, The Use and Abuse of Books, traduit par
     Renée Watkins, Waveland Press, 1999.
 
-[^2]: Alors, comment réparez-vous les écoles ? La clé de la réponse peut
+[^2]:
+    Alors, comment réparez-vous les écoles ? La clé de la réponse peut
     être l’université. Lorsque vous allez dans (une bonne) université,
     la plupart des problèmes que je décris sont résolus. La solution
     peut donc venir de la question suivante : comment faire en sorte que

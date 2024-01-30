@@ -427,8 +427,7 @@ que les habitudes personnelles que la pratique de la programmation est
 généralement de dix à vingt ans derrière le processeur. Dans des
 endroits comme le MIT, ils écrivaient des programmes dans des langages
 de haut niveau au début des années 1960, mais de nombreuses entreprises
-ont continué à écrire du code en langage machine jusque dans les années
-1980. Je parie que beaucoup de gens ont continué à écrire le langage
+ont continué à écrire du code en langage machine jusque dans les années 1980. Je parie que beaucoup de gens ont continué à écrire le langage
 machine jusqu’à ce que le processeur, comme un barman désireux de fermer
 et de rentrer chez lui, les expulse finalement en passant à un ensemble
 d’instructions RISC.
@@ -485,13 +484,8 @@ hackers. Si j’avais déjà vu une offre d’emploi à la recherche de hackers
 Lisp, j’aurais été vraiment inquiet.
 
 [^1]: Viaweb avait d'abord deux parties : l'éditeur, écrit en Common Lisp, que les gens utilisaient pour construire leurs sites, et le système de commande, écrit en C, qui a dirigé les ordres. La première version était principalement Lisp, car le système de commande était petit.<br><br>En janvier 2003, Yahoo a publié une nouvelle version de l'éditeur écrite en C++ et Perl. Mais pour traduire ce programme en C++, ils ont littéralement dû écrire un interpréteur Lisp : les fichiers sources de tous les modèles génératrices de pages sont toujours, pour autant que je sache, du code Lisp. (Voir Greenspun’s Tenth Rule p. 216)
-
 [^2]: Robert dit que je n'avais pas besoin d'être secret, parce que même si nos concurrents avaient su que nous utilisions Lisp, ils n'auraient pas compris pourquoi : « S'ils étaient aussi intelligents, ils programmeraient déjà dans Lisp. »
-
 [^3]: Tous les langages sont tout aussi puissants dans le sens d'être équivalents à Turing, mais ce n'est pas le sens du mot dont les programmeurs se soucient. (Personne ne veut programmer une machine de Turing.) Le type de programmeurs de puissance qui se soucient n'est peut-être pas formellement définissable, mais une façon de l'expliquer serait de dire qu'il fait référence à des fonctionnalités que vous ne pourriez obtenir que dans le langage moins puissant en écrivant un interpréteur pour le langage le plus puissant qu'il contient. Si le langage A a un opérateur pour supprimer les espaces des chaînes et que le langage B n'en a pas, cela ne rend probablement pas A plus puissant, car vous pouvez probablement écrire une sous-routine pour le faire en B. Mais si A prend en charge, disons, la récursivité, et que B ne le fait pas, il est peu probable que ce soit quelque chose que vous pouvez corriger en écrivant des fonctions de bibliothèque.
-
 [^4]: Ou peut-être un treillis, se rétrécissant vers le haut. Ce n'est pas la forme qui compte ici, mais l'idée qu'il y ait au moins un ordre partiel.
-
 [^5]: Il est un peu trompeur de traiter les macros comme une fonctionnalité distincte. En pratique, leur utilité est grandement renforcée par d'autres caractéristiques de Lisp telles que les fermetures lexicales et les paramètres de repos.
-
 [^6]: En conséquence, les comparaisons de langages de programmation prennent soit la forme de guerres religieuses, soit de manuels de premier cycle si résolument neutres qu'ils sont vraiment des œuvres d'anthropologie. Les gens qui apprécient leur paix, ou qui veulent une permanence, évitent le sujet. Mais la question n'est qu'une question à moitié religieuse ; il y a quelque chose qui vaut la peine d'être étudiée, surtout si vous voulez concevoir de nouveaux langages.

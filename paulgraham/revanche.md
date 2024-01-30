@@ -587,21 +587,21 @@ accumulateur doit s’accumuler.)
 
 Dans Common Lisp [^7], ce serait :
 
-``` lisp
+```lisp
 (defun foo (n)
   (lambda (i) (incf n i)))
 ```
 
 En Ruby, c’est presque identique :
 
-``` ruby
+```ruby
 def foo(n)
   lambda { |i| n += i } end
 ```
 
 Alors que dans Perl 5, c’est
 
-``` perl
+```perl
 sub foo {
   my ($n) = @_;
   sub {$n += shift}
@@ -613,7 +613,7 @@ extraire les paramètres manuellement dans Perl.
 Dans Smalltalk, le code est également légèrement plus long que dans Lisp
 et Ruby :
 
-``` smalltalk
+```smalltalk
 foo: n
   |s|
   s := n.
@@ -629,10 +629,12 @@ Javascript conserve la distinction entre les instructions et les
 expressions, vous avez donc besoin d’instructions de retour explicites
 pour renvoyer des valeurs :
 
-``` javascript
+```javascript
 function foo(n) {
   return function (i) {
-    return n += i } }
+    return (n += i);
+  };
+}
 ```
 
 (Pour être juste, Perl conserve également cette distinction, mais la
@@ -647,7 +649,7 @@ représentation littérale pour un (à moins que le corps ne soit qu’une
 seule expression), vous devez donc créer une fonction nommée pour
 revenir. C’est ce que vous vous retrouvez avec :
 
-``` python
+```python
 def foo(n):
   s = [n]
   def bar(i):
@@ -659,14 +661,14 @@ def foo(n):
 Les utilisateurs de Python pourraient légitimement se demander pourquoi
 ils ne peuvent pas simplement écrire
 
-``` python
+```python
 def foo(n):
   return lambda i: return n += i
 ```
 
 Ou même
 
-``` python
+```python
 def foo(n):
   lambda i: n += i
 ```
@@ -688,7 +690,7 @@ dans des cas simples comme celui-ci.
 Les experts de Python semblent convenir que c’est le moyen préféré de
 résoudre le problème en Python, en écrivant soit :
 
-``` python
+```python
 def foo(n)
   class acc:
     def __init__(self, s):
@@ -702,7 +704,7 @@ def foo(n)
 
 Ou
 
-``` python
+```python
 class foo(n)
   def __init__(self, n):
     self.n = n
@@ -731,7 +733,7 @@ mentionnés ici - Fortran, C, C++, Java et Visual Basic - il ne semble
 pas que vous puissiez résoudre ce problème du tout. Ken Anderson dit que
 c’est à peu près aussi proche que possible en Java :
 
-``` java
+```java
 public interface Inttoint {
   public int call(int i);
 }
@@ -781,20 +783,16 @@ signe, du moins pour moi, que j’utilise des abstractions qui ne sont pas
 assez puissantes - souvent que je génère à la main les extensions d’une
 macro que je dois écrire.
 
-[^1]: Après avoir mis cet essai en ligne, j'ai reçu un e-mail apparemment authentique qui commençait :
+[^1]:
+    Après avoir mis cet essai en ligne, j'ai reçu un e-mail apparemment authentique qui commençait :
 
     > Cheveux pointus ? Tous les poils ne sont-ils pas pointus ? Si c'est le meilleur terme insultant pour un patron que vous pouvez trouver, il est facile de voir à quel point vous avez mérité le surnom de "nerd".
 
 [^2]: Le processeur IBM 704 avait à peu près la taille d'un réfrigérateur, mais beaucoup plus lourd. Le CPU pesait 3150 livres, et le 4K de RAM était dans une boîte séparée pesant encore 4000 livres. Le Sub-Zero 690, l'un des plus grands réfrigérateurs ménagers, pèse 656 livres.
-
 [^3]: Steve Russell a également écrit le premier jeu informatique (numérique), Spacewar, en 1962.
-
 [^4]: Un certain nombre de fonctionnalités de Lisp, y compris des programmes exprimés sous forme de listes et une forme de récursivité, ont été implémentées dans IPL-V. Mais il s'agissait plus d'un langage d'assemblage ; un programme se composait d'une séquence de paires opcode/adresse. Newell, Allen (éd.), Information Processing Language-V Manual, Prentice-Hall, 1961.
-
 [^5]: Si vous voulez tromper un patron aux cheveux pointus pour qu'il vous laisse écrire un logiciel en Lisp, vous pouvez essayer de lui dire que c'est du XML.
-
 [^6]: Muehlbauer,Jen, “Orbitz Reaches New Heights”, New Architect, avril 2002.
-
 [^7]: Voici le générateur d'accumulateurs dans d'autres dialectes de Lisp :
 
     Scheme:
