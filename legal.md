@@ -1,10 +1,31 @@
 ---
 title: Legal / Mentions Légales
+layout: default
 ---
 
 ## United States
 
-TODO
+Welcome to dorianmarie.com. Please review the following legal information carefully.
+
+### Privacy Policy
+
+Our Privacy Policy outlines how we collect, use, and protect your personal information when you visit and interact with dorianmarie.com. [Read our Privacy Policy](/privacy).
+
+### Terms of Service
+
+By accessing and using dorianmarie.com, you agree to comply with our Terms of Service. These terms govern your use of our website. [Read our Terms of Service](/terms).
+
+### Cookie Policy
+
+Our Cookie Policy explains how we use cookies and similar technologies to enhance your browsing experience on dorianmarie.com. [Read our Cookie Policy](/cookies).
+
+### Disclaimer
+
+The information provided on dorianmarie.com is for general informational purposes only. We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+
+### Contact Us
+
+If you have any questions or concerns regarding our legal information, please feel free to [contact us](/contact).
 
 ## France
 

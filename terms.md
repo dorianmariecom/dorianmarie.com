@@ -1,5 +1,6 @@
 ---
 title: Terms / Conditions Générales de Vente
+layout: default
 ---
 
 ## United States
