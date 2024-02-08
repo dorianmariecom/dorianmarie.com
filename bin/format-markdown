@@ -1,7 +1,0 @@
-#!/bin/bash
-
-set -e
-
-pandoc -f markdown -t gfm $1 > /tmp/formatted-markdown.md
-
-mv /tmp/formatted-markdown.md $1

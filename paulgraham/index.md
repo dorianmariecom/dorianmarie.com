@@ -3,6 +3,9 @@ title: Paul Graham
 layout: default
 ---
 
+* [Mettre des Idées en Mots](mots)
+* [Le Besoin de Lire](lire)
+
 ## LES HACKERS & LES PEINTRES
 
 Grandes idées sur l’ère numérique

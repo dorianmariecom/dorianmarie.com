@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+
+xelatex "Dorian Marié - CV.tex"
+rm -f *.aux *.out *.log
