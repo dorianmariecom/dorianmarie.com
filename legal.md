@@ -33,7 +33,7 @@ If you have any questions or concerns regarding our legal information, please fe
 
 Le site [dorianmarie.fr](https://dorianmarie.fr) (ci-après "**le Site**"), accessible à l’adresse [https://dorianmarie.fr](https://dorianmarie.fr) est édité par la société [dorianmarie.fr](https://dorianmarie.fr) (ci-après "**l'Éditeur**"), SASU au capital de 1 euro, dont le siège social est situé [34 avenue des Champs Elysées, 75008 Paris, France](https://maps.google.com/?q=34 avenue des Champs Elysées, 75008 Paris, France). Il est immatriculé au RCS de Paris sous le numéro [977725548](https://www.pappers.fr/entreprise/dorianmariefr-977725548). TVA intracommunautaire n° [FR58977725548](https://www.pappers.fr/entreprise/dorianmariefr-977725548).
 
-L'Éditeur peut être contacté à l’adresse mail [dorian@dorianmarie.fr](mailto:dorian@dorianmarie.fr) ou au numéro [+33 7 67 23 95 73](tel:+33 7 67 23 95 73).
+L'Éditeur peut être contacté à l’adresse mail [dorian@dorianmarie.com](mailto:dorian@dorianmarie.com) ou au numéro [+33 7 67 23 95 73](tel:+33 7 67 23 95 73).
 
 ### Hébergeur du site internet
 
@@ -50,7 +50,7 @@ Conformément aux dispositions de la [loi n° 78-17 du 6 janvier 1978 modifiée]
 
 Les données collectées servent principalement à permettre la mise à disposition de la Plateforme, son optimisation et sa sécurisation afin d’offrir aux utilisateurs un service de la meilleure qualité possible. Des données supplémentaires pourront éventuellement être collectées par l'Éditeur pour permettre la bonne exécution de contrats commerciaux conclus par l’entremise de la Plateforme avec l’utilisateur.
 
-L’utilisateur est informé qu’il dispose d'un droit d'accès, d'interrogation, de modification et de suppression des informations qui le concernent, à exercer à tout moment auprès de l'Éditeur soit directement sur le Site, soit par courrier postal adressé au [34 avenue des Champs Elysées, 75008 Paris, France](https://maps.google.com/?q=34 avenue des Champs Elysées, 75008 Paris, France) soit par e-mail à l’adresse [dorian@dorianmarie.fr](mailto:dorian@dorianmarie.fr).
+L’utilisateur est informé qu’il dispose d'un droit d'accès, d'interrogation, de modification et de suppression des informations qui le concernent, à exercer à tout moment auprès de l'Éditeur soit directement sur le Site, soit par courrier postal adressé au [34 avenue des Champs Elysées, 75008 Paris, France](https://maps.google.com/?q=34 avenue des Champs Elysées, 75008 Paris, France) soit par e-mail à l’adresse [dorian@dorianmarie.com](mailto:dorian@dorianmarie.com).
 
 Les informations recueillies pourront éventuellement être partagées à des tiers résidant dans l’Union Européenne dans les cas suivants :
 

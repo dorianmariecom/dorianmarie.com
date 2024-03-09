@@ -118,7 +118,7 @@ Les présentes Conditions Générales de Vente sont à jour au 15/08/2023.
 
 Les présentes Conditions Générales de Vente (ci-après "**CGV**") sont proposées par la société [dorianmarie.fr](https://dorianmarie.fr) (ci-après "**La Société**"), SASU au capital de 1 euro, inscrite au Registre du commerce et des sociétés de Paris sous le numéro [977725548](https://www.pappers.fr/entreprise/dorianmariefr-977725548), représentée par [Dorian Marié](/about), et dont le siège social est fixé au [34 avenue des Champs Elysées, 75008 Paris, France](https://maps.google.com/?q=34 avenue des Champs Elysées, 75008 Paris, France).
 
-Son numéro de téléphone non surtaxé est le [+33 7 67 23 95 73](tel:+33 7 67 23 95 73), et son adresse électronique est [dorian@dorianmarie.fr](mailto:dorian@dorianmarie.fr).
+Son numéro de téléphone non surtaxé est le [+33 7 67 23 95 73](tel:+33 7 67 23 95 73), et son adresse électronique est [dorian@dorianmarie.com](mailto:dorian@dorianmarie.com).
 
 La Société est propriétaire et éditeur du site internet [https://dorianmarie.fr](https://dorianmarie.fr) (ci-après « le Site »). Le Site est hébergé par Amazon, domiciliée au 34 Avenue des Champs-Élysées, 75008 Paris, France, joignable au [+33 7 67 23 95 73](tel:+33 7 67 23 95 73).
 
@@ -197,7 +197,7 @@ Pour toute demande d’informations, de précisions ou pour toute réclamation, 
 Le service client de la Société est accessible de 24h/24 7j/7 en utilisant les coordonnées suivantes :
 
 - Téléphone : [+33 7 67 23 95 73](tel:+33 7 67 23 95 73)
-- Email : [dorian@dorianmarie.fr](mailto:dorian@dorianmarie.fr)
+- Email : [dorian@dorianmarie.com](mailto:dorian@dorianmarie.com)
 - Courrier : [34 avenue des Champs Elysées, 75008 Paris, France](https://maps.google.com/?q=34 avenue des Champs Elysées, 75008 Paris, France)
 
 ### 7. Garantie légales et commerciales
@@ -252,7 +252,7 @@ Le service client de la Société est accessible de 24h/24 7j/7 en utilisant les
 >
 > Art. 1648 du Code Civil : "L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice. (…)"
 
-Si un Client estime avoir reçu un produit qu’il considère comme défectueux ou non-conforme, il devra contacter la Société, dans les plus brefs délais à compter de la réception de la Commande, à l’adresse électronique suivante : [dorian@dorianmarie.fr](mailto:dorian@dorianmarie.fr), ou par courrier recommandé avec accusé de réception à l’adresse suivante : [34 avenue des Champs Elysées, 75008 Paris, France](https://maps.google.com/?q=34 avenue des Champs Elysées, 75008 Paris, France), en précisant le défaut ou la non-conformité en cause.
+Si un Client estime avoir reçu un produit qu’il considère comme défectueux ou non-conforme, il devra contacter la Société, dans les plus brefs délais à compter de la réception de la Commande, à l’adresse électronique suivante : [dorian@dorianmarie.com](mailto:dorian@dorianmarie.com), ou par courrier recommandé avec accusé de réception à l’adresse suivante : [34 avenue des Champs Elysées, 75008 Paris, France](https://maps.google.com/?q=34 avenue des Champs Elysées, 75008 Paris, France), en précisant le défaut ou la non-conformité en cause.
 
 Il appartiendra au Client de fournir toute justification quant à la désignation des vices apparents et/ou anomalies constatés. Le Client devra laisser à la Société toute facilité pour procéder à la constatation de ces vices ou non conformités et pour y porter remède le cas échéant. Il s’abstiendra d’intervenir lui-même ou de faire intervenir un tiers à cette fin.
 
@@ -299,7 +299,7 @@ Tous les Produits/Services peuvent faire l’objet d’une rétractation, except
 > 12. De prestations de services d'hébergement, autres que d'hébergement résidentiel, de services de transport de biens, de locations de voitures, de restauration ou d'activités de loisirs qui doivent être fournis à une date ou à une période déterminée ;
 > 13. De fourniture d'un contenu numérique non fourni sur un support matériel dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation.
 
-Pour exercer son droit de rétractation de la Commande le Client doit notifier sa décision de rétractation au moyen du formulaire de rétractation proposé en annexe des présentes ou au moyen d’une déclaration dénuée d’ambiguïté, sans justifier de motifs. Le Client peut communiquer sa décision de rétractation à la Société par tout moyen, notamment en l’envoyant par courrier à la Société à l’adresse suivante : [34 avenue des Champs Elysées, 75008 Paris, France](https://maps.google.com/?q=34 avenue des Champs Elysées, 75008 Paris, France) ou par courriel à [dorian@dorianmarie.fr](mailto:dorian@dorianmarie.fr).
+Pour exercer son droit de rétractation de la Commande le Client doit notifier sa décision de rétractation au moyen du formulaire de rétractation proposé en annexe des présentes ou au moyen d’une déclaration dénuée d’ambiguïté, sans justifier de motifs. Le Client peut communiquer sa décision de rétractation à la Société par tout moyen, notamment en l’envoyant par courrier à la Société à l’adresse suivante : [34 avenue des Champs Elysées, 75008 Paris, France](https://maps.google.com/?q=34 avenue des Champs Elysées, 75008 Paris, France) ou par courriel à [dorian@dorianmarie.com](mailto:dorian@dorianmarie.com).
 
 En cas de notification à la Société par le Client de sa décision de rétractation, quel que soit le moyen employé, la Société lui enverra sans délai un accusé de réception de la rétractation sur un support durable (notamment par courriel).
 
@@ -353,7 +353,7 @@ Les données personnelles récoltées par la Société ont pour objet de permett
 
 Conformément aux dispositions de la loi n° 78-17 du 6 janvier 1978, telle que modifiée par la loi n°2004-801 du 6 août 2004 dite « Informatique et Libertés », et au règlement général sur la protection des données (RGPD), sous réserve de justifier de votre identité, tout Client, quelle que soit sa nationalité, dispose d’un droit d’accès, de modification et de suppression de ses données à caractère personnel. Chaque Client est également en droit de solliciter une limitation du traitement de ses données et dispose, par ailleurs, d’un droit à la portabilité des données ainsi que d’un droit d’opposition au traitement des données à caractère personnel le concernant.
 
-Aux fins d’application de la présente clause et, notamment, de s’assurer du traitement de confidentialité des données des Clients, la Société a désigné, conformément aux dispositions du règlement général sur la protection des données (RGPD), un délégué à la protection des données, qu’il est possible de contacter à l’adresse suivante : [dorian@dorianmarie.fr](mailto:dorian@dorianmarie.fr).
+Aux fins d’application de la présente clause et, notamment, de s’assurer du traitement de confidentialité des données des Clients, la Société a désigné, conformément aux dispositions du règlement général sur la protection des données (RGPD), un délégué à la protection des données, qu’il est possible de contacter à l’adresse suivante : [dorian@dorianmarie.com](mailto:dorian@dorianmarie.com).
 
 En tout état de cause, tout Client a le droit de faire toute réclamation auprès de la CNIL.
 
@@ -394,7 +394,7 @@ Formulaire de rétractation
 
 Société [dorianmarie.fr](https://dorianmarie.fr)<br>
 [34 avenue des Champs Elysées, 75008 Paris, France]()<br>
-[dorian@dorianmarie.fr](mailto:dorian@dorianmarie.fr)<br>
+[dorian@dorianmarie.com](mailto:dorian@dorianmarie.com)<br>
 [+33 7 67 23 95 73](tel:+33 7 67 23 95 73)
 
 Je vous notifie par la présente, ma rétractation du contrat portant sur la vente du ou des produit(s)/service(s) ci-après mentionné(s) :

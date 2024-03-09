@@ -360,7 +360,7 @@ personnelles.
 
 Si vous avez des questions, des commentaires ou des suggestions,
 veuillez nous contacter en visitant la page contactez-nous ou en les
-soumettant à **[dorian@dorianmarie.fr](mailto:dorian@dorianmarie.fr)**.
+soumettant à **[dorian@dorianmarie.com](mailto:dorian@dorianmarie.com)**.
 
 Ou par courrier postal à [34 avenue des Champs Elysées, 75008 Paris, France](https://maps.google.com/?q=34 avenue des Champs Elysées, 75008 Paris, France).
 
