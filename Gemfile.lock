@@ -87,7 +87,7 @@ GEM
     mercenary (0.4.0)
     minitest (5.22.3)
     mutex_m (0.2.0)
-    nokogiri (1.16.2-arm64-darwin)
+    nokogiri (1.16.3-arm64-darwin)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
