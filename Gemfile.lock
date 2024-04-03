@@ -36,6 +36,8 @@ GEM
     concurrent-ruby (1.2.3)
     connection_pool (2.4.1)
     crass (1.0.6)
+    csv (3.3.0)
+    diff-lcs (1.5.1)
     drb (2.2.1)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
@@ -128,6 +130,19 @@ GEM
       io-console (~> 0.5)
     rexml (3.2.6)
     rouge (4.2.1)
+    rspec (3.13.0)
+      rspec-core (~> 3.13.0)
+      rspec-expectations (~> 3.13.0)
+      rspec-mocks (~> 3.13.0)
+    rspec-core (3.13.0)
+      rspec-support (~> 3.13.0)
+    rspec-expectations (3.13.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.13.0)
+    rspec-mocks (3.13.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.13.0)
+    rspec-support (3.13.1)
     safe_yaml (1.0.5)
     sass-embedded (1.72.0-arm64-darwin)
       google-protobuf (>= 3.25, < 5.0)
@@ -148,7 +163,9 @@ PLATFORMS
   arm64-darwin-22
 
 DEPENDENCIES
+  csv
   jekyll
+  rspec
   tailwindcss-rails
 
 BUNDLED WITH
