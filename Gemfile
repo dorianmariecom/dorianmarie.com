@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "jekyll"
-gem "tailwindcss-rails"
-gem "rspec"
 gem "csv" # jekyll
+gem "jekyll"
+gem "rspec"
+gem "tailwindcss-rails"
