@@ -6,3 +6,4 @@ gem "csv" # jekyll
 gem "jekyll"
 gem "rspec"
 gem "tailwindcss-rails"
+gem "rubocop-rails-omakase"

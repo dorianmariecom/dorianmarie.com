@@ -16,6 +16,7 @@ When you visit the site, we automatically collect certain information about your
 #### Device Information
 
 We collect Device Information using the following technologies:
+
 - “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier.
 - “Log files” track actions occurring on the site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 - “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the site.
