@@ -3,5 +3,10 @@
     "@tailwindcss/typography": "*",
     "tailwindcss": "*"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": "21.7.2",
+    "yarn": "1.22.19",
+    "npm": "10.5.1"
+  }
 }
