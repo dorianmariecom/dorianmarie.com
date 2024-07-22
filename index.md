@@ -6,7 +6,7 @@ layout: default
 Hi 👋<br>
 I’m french 🇫🇷<br>
 I’m a programmer 🧑‍💻<br>
-My resume: [English](/cv.pdf) / [French](/fr/cv.pdf) 📁<br>
+[CV](/cv.pdf) 📝
 
 I like working with: ❤️<br>
 **Ruby** with Ruby on Rails 💎<br>
