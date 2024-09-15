@@ -3,9 +3,9 @@
     "@tailwindcss/typography": "*",
     "tailwindcss": "*"
   },
-  "license": "MIT",
   "engines": {
     "node": "22.5.1",
     "npm": "10.8.2"
-  }
+  },
+  "license": "MIT"
 }

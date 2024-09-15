@@ -364,4 +364,5 @@ filtres différents, plus il sera difficile pour les spammeurs d’accorder
 les spams pour les traverser.
 
 [^1]: Certains des essais de ce livre ont été réécrits, mais à l'exception de la traduction des calculs de probabilité du code Lisp en notation mathématique, j'ai laissé celui-ci tranquille. Donc, certaines choses qui s'y trouvent ne sont plus vraies. Peu de spams contiennent le mot "clic" maintenant. Mais l'algorithme fonctionne toujours. Une version légèrement améliorée attrape environ 99,6 % du spam actuel. Pour en savoir plus sur le filtrage, voir paulgraham.com.
+
 [^2]: En 2002, le taux le plus bas semblait être d'environ 200 $ pour envoyer un million de spams. C'est très bon marché, 1/50e de cent par spam. Mais filtrer 95 % du spam, par exemple, augmenterait le coût des spammeurs pour atteindre un public donné d'un facteur de 20. Peu de gens peuvent avoir des marges assez grandes pour absorber cela.

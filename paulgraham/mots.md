@@ -107,7 +107,9 @@ Robert Morris d'avoir lu des brouillons de ceci.</p>
 **Notes**
 
 [^1]: Les machines et les circuits sont des langages formels.
+
 [^2]: J'ai pensé à cette phrase alors que je marchais dans la rue à Palo Alto.
+
 [^3]:
     Il y a deux sens de parler à quelqu'un : un sens strict dans lequel la
     conversation est verbale, et un sens plus general dans lequel elle peut

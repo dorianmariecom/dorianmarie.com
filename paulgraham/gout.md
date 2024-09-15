@@ -585,5 +585,7 @@ N’ignorez pas ces voix. Cultivez-les. La recette d’un excellent travail
 est : un goût très exigeant, plus la capacité de le satisfaire
 
 [^1]: Sullivan a en fait dit "la forme suit toujours la fonction", mais je pense que la citation erronée habituelle est plus proche de ce que les architectes modernistes voulaient dire.
+
 [^2]: Le moteur du Wright Flyer pesait 152 lb et produisait 12 ch. Le moteur à réaction F414-GE-400 utilisé dans le F-18 pèse 2 445 lb et génère 22 000 lb de poussée. En supposant une poussée de 1 lb = 1 ch, il fournit environ 114 fois plus de puissance par poids.<br><br>Les processeurs Intel actuels, quant à eux, offrent environ 1700 fois la puissance de traitement de ceux disponibles il y a 30 ans.
+
 [^3]: Brush, Stephen G., « Pourquoi la relativité a-t-elle été acceptée ? » La physique en perspective, 1 (1999), 184-214.
