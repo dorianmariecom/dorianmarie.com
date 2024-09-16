@@ -789,10 +789,15 @@ macro que je dois écrire.
     > Cheveux pointus ? Tous les poils ne sont-ils pas pointus ? Si c'est le meilleur terme insultant pour un patron que vous pouvez trouver, il est facile de voir à quel point vous avez mérité le surnom de "nerd".
 
 [^2]: Le processeur IBM 704 avait à peu près la taille d'un réfrigérateur, mais beaucoup plus lourd. Le CPU pesait 3150 livres, et le 4K de RAM était dans une boîte séparée pesant encore 4000 livres. Le Sub-Zero 690, l'un des plus grands réfrigérateurs ménagers, pèse 656 livres.
+
 [^3]: Steve Russell a également écrit le premier jeu informatique (numérique), Spacewar, en 1962.
+
 [^4]: Un certain nombre de fonctionnalités de Lisp, y compris des programmes exprimés sous forme de listes et une forme de récursivité, ont été implémentées dans IPL-V. Mais il s'agissait plus d'un langage d'assemblage ; un programme se composait d'une séquence de paires opcode/adresse. Newell, Allen (éd.), Information Processing Language-V Manual, Prentice-Hall, 1961.
+
 [^5]: Si vous voulez tromper un patron aux cheveux pointus pour qu'il vous laisse écrire un logiciel en Lisp, vous pouvez essayer de lui dire que c'est du XML.
+
 [^6]: Muehlbauer,Jen, “Orbitz Reaches New Heights”, New Architect, avril 2002.
+
 [^7]: Voici le générateur d'accumulateurs dans d'autres dialectes de Lisp :
 
     Scheme:
