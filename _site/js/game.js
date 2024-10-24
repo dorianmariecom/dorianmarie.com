@@ -1,22 +1,24 @@
 const createGrid = (rows, cols) => {
-  return new Array(rows).fill(null).map(() =>
-    new Array(cols).fill(null).map(() => Math.random() > 0.5 ? 1 : 0)
-  )
-}
+  return new Array(rows)
+    .fill(null)
+    .map(() =>
+      new Array(cols).fill(null).map(() => (Math.random() > 0.5 ? 1 : 0)),
+    );
+};
 
-const canvas = document.getElementById("game")
-const context = canvas.getContext("2d")
+const canvas = document.getElementById("game");
+const context = canvas.getContext("2d");
 
-let width = window.innerWidth
-let height = window.innerHeight
+let width = window.innerWidth;
+let height = window.innerHeight;
 
-canvas.width = width
-canvas.height = height
+canvas.width = width;
+canvas.height = height;
 
-const CELL_SIZE = 10
-let rows = Math.floor(height / CELL_SIZE)
-let cols = Math.floor(width / CELL_SIZE)
-let grid = createGrid(rows, cols)
+const CELL_SIZE = 10;
+let rows = Math.floor(height / CELL_SIZE);
+let cols = Math.floor(width / CELL_SIZE);
+let grid = createGrid(rows, cols);
 
 drawGrid = () => {
   context.clearRect(0, 0, width, height);
@@ -24,14 +26,14 @@ drawGrid = () => {
     for (let col = 0; col < cols; col++) {
       context.beginPath();
       context.rect(col * CELL_SIZE, row * CELL_SIZE, CELL_SIZE, CELL_SIZE);
-      context.fillStyle = grid[row][col] ? '#eee' : 'white';
+      context.fillStyle = grid[row][col] ? "#eee" : "white";
       context.fill();
     }
   }
-}
+};
 
 nextGeneration = (grid) => {
-  const newGrid = grid.map(arr => [...arr]);
+  const newGrid = grid.map((arr) => [...arr]);
 
   for (let row = 0; row < rows; row++) {
     for (let col = 0; col < cols; col++) {
@@ -47,7 +49,7 @@ nextGeneration = (grid) => {
   }
 
   return newGrid;
-}
+};
 
 countNeighbors = (grid, row, col) => {
   let count = 0;
@@ -63,22 +65,22 @@ countNeighbors = (grid, row, col) => {
     }
   }
   return count;
-}
+};
 
 const update = () => {
   grid = nextGeneration(grid);
   drawGrid();
   requestAnimationFrame(update);
-}
+};
 
-update()
+update();
 
-window.addEventListener('resize', () => {
+window.addEventListener("resize", () => {
   width = window.innerWidth;
   height = window.innerHeight;
   canvas.width = width;
   canvas.height = height;
-  rows = Math.floor(height / CELL_SIZE)
-  cols = Math.floor(width / CELL_SIZE)
+  rows = Math.floor(height / CELL_SIZE);
+  cols = Math.floor(width / CELL_SIZE);
   grid = createGrid(rows, cols);
 });
