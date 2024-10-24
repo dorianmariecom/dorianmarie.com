@@ -5,14 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Dorian Marié</title>
     <link href="/css/application.css" rel="stylesheet" media="all" />
-    <link href="/css/rouge.css" rel="stylesheet" media="all" />
   </head>
-  <body class="mx-auto max-w-4xl p-4 pt-16 prose">
-    <p>
-      <a href="/">dorianmarie.com</a>
-    </p>
-    <h1>Dorian Marié</h1>
-    <p>Hi 👋<br />
+  <body class="mx-auto max-w-4xl p-4 pt-16 prose h-full">
+    <div class="relative z-10">
+      <p>
+        <a href="/">dorianmarie.com</a>
+      </p>
+      <h1>Dorian Marié</h1>
+      <p>Hi 👋<br />
 I’m french 🇫🇷<br />
 I’m a programmer 🧑‍💻<br />
 <a href="/cv.pdf">CV</a> 📝</p>
@@ -30,5 +30,8 @@ My GitHub is <a href="https://github.com/dorianmariecom">@dorianmariecom</a> �
 My Twitter is <a href="https://twitter.com/dorianmariecom">@dorianmariecom</a> 🐦<br />
 My LinkedIn is <a href="https://www.linkedin.com/in/dorianmariecom/">Dorian Marié</a> 🕴️</p>
 
+    </div>
+    <canvas id="game" class="absolute top-0 left-0 right-0 z-0"></canvas>
+    <script src="/js/game.js"></script>
   </body>
 </html>
