@@ -8,7 +8,7 @@ const canvas = document.getElementById("game")
 const context = canvas.getContext("2d")
 
 let width = window.innerWidth
-let height = document.body.scrollHeight
+let height = window.innerHeight
 
 canvas.width = width
 canvas.height = height
@@ -24,7 +24,7 @@ drawGrid = () => {
     for (let col = 0; col < cols; col++) {
       context.beginPath();
       context.rect(col * CELL_SIZE, row * CELL_SIZE, CELL_SIZE, CELL_SIZE);
-      context.fillStyle = grid[row][col] ? '#aaa' : 'white';
+      context.fillStyle = grid[row][col] ? '#eee' : 'white';
       context.fill();
     }
   }
@@ -75,7 +75,7 @@ update()
 
 window.addEventListener('resize', () => {
   width = window.innerWidth;
-  height = document.body.scrollHeight;
+  height = window.innerHeight;
   canvas.width = width;
   canvas.height = height;
   rows = Math.floor(height / CELL_SIZE)

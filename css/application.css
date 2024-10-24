@@ -2572,6 +2572,10 @@ video {
   position: sticky;
 }
 
+.inset-0 {
+  inset: 0px;
+}
+
 .-right-4 {
   right: -1rem;
 }
