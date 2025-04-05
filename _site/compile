@@ -1,7 +1,0 @@
-#!/bin/bash
-
-set -e
-
-xelatex cv.tex
-
-rm *.aux *.out *.log
