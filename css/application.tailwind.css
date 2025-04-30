@@ -1,3 +1,9 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+p {
+  @apply mb-4;
+}
+
+a {
+  @apply underline;
+}
