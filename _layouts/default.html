@@ -3,6 +3,19 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="{{ page.description | default: site.description | escape }}" />
+    <meta name="author" content="{{ site.author | default: page.author | escape }}" />
+    <meta name="robots" content="index,follow" />
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="{{ site.title | escape }}" />
+    <meta property="og:title" content="{{ page.title | escape }}" />
+    <meta property="og:description" content="{{ page.description | default: site.description | escape }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{ page.title | escape }}" />
+    <meta name="twitter:description" content="{{ page.description | default: site.description | escape }}" />
     <title>{{ page.title }}</title>
     <link href="/css/application.css" rel="stylesheet" media="all" />
   </head>
