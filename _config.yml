@@ -7,3 +7,6 @@ url: https://dorianmarie.com
 twitter_username: dorianmariecom
 github_username: dorianmariecom
 theme: minima
+header_pages:
+  - privacy.markdown
+  - terms.markdown

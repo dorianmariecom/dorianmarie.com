@@ -1,0 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.footer-legal {
+  margin-top: -8px;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.footer-legal,
+.footer-legal a {
+  color: #828282;
+}
