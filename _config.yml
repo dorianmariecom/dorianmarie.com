@@ -8,5 +8,6 @@ twitter_username: dorianmariecom
 github_username: dorianmariecom
 theme: minima
 header_pages:
+  - about.md
   - privacy.markdown
   - terms.markdown
